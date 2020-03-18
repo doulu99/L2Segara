@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/network
+END
+L2IrcClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/network/L2IrcClient.java
+END
+Disconnection.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/network/Disconnection.java
+END
+PacketHistory.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/network/PacketHistory.java
+END
+GameCrypt.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/network/GameCrypt.java
+END
+BlowFishKeygen.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/network/BlowFishKeygen.java
+END
+L2GamePacketHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/network/L2GamePacketHandler.java
+END
+CustomPacketHandlerInterface.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/network/CustomPacketHandlerInterface.java
+END
+SystemChatChannelId.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/network/SystemChatChannelId.java
+END
+ClientStats.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/network/ClientStats.java
+END
+L2GameClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/network/L2GameClient.java
+END
+SystemMessageId.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/network/SystemMessageId.java
+END

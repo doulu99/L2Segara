@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/L2jFrozenInterlude/!svn/ver/978/trunk/gameserver/config/network
+END
+loginserver.properties
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/L2jFrozenInterlude/!svn/ver/978/trunk/gameserver/config/network/loginserver.properties
+END
+gameserver.properties
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/L2jFrozenInterlude/!svn/ver/978/trunk/gameserver/config/network/gameserver.properties
+END

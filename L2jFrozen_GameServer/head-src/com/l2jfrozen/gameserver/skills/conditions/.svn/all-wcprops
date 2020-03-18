@@ -1,0 +1,215 @@
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/skills/conditions
+END
+ConditionPlayerRace.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/skills/conditions/ConditionPlayerRace.java
+END
+ConditionSkillStats.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/skills/conditions/ConditionSkillStats.java
+END
+ConditionItemId.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/skills/conditions/ConditionItemId.java
+END
+ConditionTargetUsesWeaponKind.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/skills/conditions/ConditionTargetUsesWeaponKind.java
+END
+ConditionUsingSkill.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/skills/conditions/ConditionUsingSkill.java
+END
+ConditionTargetClassIdRestriction.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/skills/conditions/ConditionTargetClassIdRestriction.java
+END
+ConditionTargetNone.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/skills/conditions/ConditionTargetNone.java
+END
+ConditionTargetWeight.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/L2jFrozenInterlude/!svn/ver/1072/trunk/gameserver/head-src/com/l2jfrozen/gameserver/skills/conditions/ConditionTargetWeight.java
+END
+ConditionForceBuff.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/skills/conditions/ConditionForceBuff.java
+END
+ConditionInventory.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/skills/conditions/ConditionInventory.java
+END
+ConditionGameChance.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/skills/conditions/ConditionGameChance.java
+END
+ConditionGameTime.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/skills/conditions/ConditionGameTime.java
+END
+ConditionTargetLevel.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/skills/conditions/ConditionTargetLevel.java
+END
+ConditionLogicAnd.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/skills/conditions/ConditionLogicAnd.java
+END
+ConditionPlayerBaseStats.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/skills/conditions/ConditionPlayerBaseStats.java
+END
+ConditionTargetAggro.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/skills/conditions/ConditionTargetAggro.java
+END
+ConditionWithSkill.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/skills/conditions/ConditionWithSkill.java
+END
+ConditionLogicNot.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/skills/conditions/ConditionLogicNot.java
+END
+ConditionListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/skills/conditions/ConditionListener.java
+END
+ConditionPlayerLevel.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/skills/conditions/ConditionPlayerLevel.java
+END
+ConditionSlotItemId.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/skills/conditions/ConditionSlotItemId.java
+END
+ConditionLogicOr.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/skills/conditions/ConditionLogicOr.java
+END
+ConditionSlotItemType.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/skills/conditions/ConditionSlotItemType.java
+END
+ConditionPlayerHp.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/skills/conditions/ConditionPlayerHp.java
+END
+ConditionTargetBodyPart.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/skills/conditions/ConditionTargetBodyPart.java
+END
+ConditionPlayerMp.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/skills/conditions/ConditionPlayerMp.java
+END
+ConditionTargetPvp.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/skills/conditions/ConditionTargetPvp.java
+END
+ConditionPlayerHpPercentage.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/skills/conditions/ConditionPlayerHpPercentage.java
+END
+Condition.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/skills/conditions/Condition.java
+END
+ConditionTargetRaceId.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/skills/conditions/ConditionTargetRaceId.java
+END
+ConditionUsingItemType.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/skills/conditions/ConditionUsingItemType.java
+END
+ConditionPlayerClassIdRestriction.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/skills/conditions/ConditionPlayerClassIdRestriction.java
+END
+ConditionPlayerState.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/skills/conditions/ConditionPlayerState.java
+END
+ConditionPlayerWeight.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/L2jFrozenInterlude/!svn/ver/1072/trunk/gameserver/head-src/com/l2jfrozen/gameserver/skills/conditions/ConditionPlayerWeight.java
+END
+ConditionElementSeed.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/skills/conditions/ConditionElementSeed.java
+END

@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/communitybbs/Manager
+END
+ClanBBSManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/communitybbs/Manager/ClanBBSManager.java
+END
+TopBBSManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/communitybbs/Manager/TopBBSManager.java
+END
+RegionBBSManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/communitybbs/Manager/RegionBBSManager.java
+END
+ForumsBBSManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/communitybbs/Manager/ForumsBBSManager.java
+END
+BaseBBSManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/communitybbs/Manager/BaseBBSManager.java
+END
+PostBBSManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/communitybbs/Manager/PostBBSManager.java
+END
+TopicBBSManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/communitybbs/Manager/TopicBBSManager.java
+END
+AdminBBSManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/communitybbs/Manager/AdminBBSManager.java
+END

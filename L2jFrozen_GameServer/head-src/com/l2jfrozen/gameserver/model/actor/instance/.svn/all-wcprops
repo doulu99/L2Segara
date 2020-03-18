@@ -1,0 +1,485 @@
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/model/actor/instance
+END
+L2NpcInstance.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/model/actor/instance/L2NpcInstance.java
+END
+L2PetInstance.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/model/actor/instance/L2PetInstance.java
+END
+L2ClanHallManagerInstance.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/model/actor/instance/L2ClanHallManagerInstance.java
+END
+L2PenaltyMonsterInstance.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/model/actor/instance/L2PenaltyMonsterInstance.java
+END
+L2DoorInstance.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/model/actor/instance/L2DoorInstance.java
+END
+L2ClassMasterInstance.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/model/actor/instance/L2ClassMasterInstance.java
+END
+L2CommanderInstance.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/model/actor/instance/L2CommanderInstance.java
+END
+L2FriendlyMobInstance.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/model/actor/instance/L2FriendlyMobInstance.java
+END
+L2FortWyvernManagerInstance.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/model/actor/instance/L2FortWyvernManagerInstance.java
+END
+L2ProtectorInstance.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/model/actor/instance/L2ProtectorInstance.java
+END
+L2BlacksmithInstance.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/model/actor/instance/L2BlacksmithInstance.java
+END
+L2CustomNpcInstance.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/model/actor/instance/L2CustomNpcInstance.java
+END
+L2TamedBeastInstance.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/model/actor/instance/L2TamedBeastInstance.java
+END
+L2ObservationInstance.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/model/actor/instance/L2ObservationInstance.java
+END
+L2SepulcherNpcInstance.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/model/actor/instance/L2SepulcherNpcInstance.java
+END
+L2MercManagerInstance.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/model/actor/instance/L2MercManagerInstance.java
+END
+L2FortManagerInstance.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/model/actor/instance/L2FortManagerInstance.java
+END
+L2FortMerchantInstance.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/model/actor/instance/L2FortMerchantInstance.java
+END
+L2EffectPointInstance.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/model/actor/instance/L2EffectPointInstance.java
+END
+L2GourdInstance.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/model/actor/instance/L2GourdInstance.java
+END
+L2RaceManagerInstance.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/model/actor/instance/L2RaceManagerInstance.java
+END
+L2AuctioneerInstance.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/model/actor/instance/L2AuctioneerInstance.java
+END
+L2PlayableInstance.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/model/actor/instance/L2PlayableInstance.java
+END
+L2RecipeInstance.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/model/actor/instance/L2RecipeInstance.java
+END
+L2MonsterInstance.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/model/actor/instance/L2MonsterInstance.java
+END
+L2NpcWalkerInstance.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/model/actor/instance/L2NpcWalkerInstance.java
+END
+L2FishermanInstance.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/model/actor/instance/L2FishermanInstance.java
+END
+L2TrainerInstance.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/model/actor/instance/L2TrainerInstance.java
+END
+L2MerchantInstance.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/model/actor/instance/L2MerchantInstance.java
+END
+L2SummonInstance.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/model/actor/instance/L2SummonInstance.java
+END
+L2TownPetInstance.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/model/actor/instance/L2TownPetInstance.java
+END
+L2BoatInstance.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/model/actor/instance/L2BoatInstance.java
+END
+L2SymbolMakerInstance.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/model/actor/instance/L2SymbolMakerInstance.java
+END
+L2CubicInstance.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/model/actor/instance/L2CubicInstance.java
+END
+L2GuardInstance.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/model/actor/instance/L2GuardInstance.java
+END
+L2SiegeGuardInstance.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/model/actor/instance/L2SiegeGuardInstance.java
+END
+L2HennaInstance.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/model/actor/instance/L2HennaInstance.java
+END
+L2RaidBossInstance.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/model/actor/instance/L2RaidBossInstance.java
+END
+L2FestivalMonsterInstance.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/model/actor/instance/L2FestivalMonsterInstance.java
+END
+L2MinionInstance.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/model/actor/instance/L2MinionInstance.java
+END
+L2SiegeNpcInstance.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/model/actor/instance/L2SiegeNpcInstance.java
+END
+L2SepulcherMonsterInstance.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/model/actor/instance/L2SepulcherMonsterInstance.java
+END
+L2ItemInstance.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/model/actor/instance/L2ItemInstance.java
+END
+L2CastleTeleporterInstance.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/model/actor/instance/L2CastleTeleporterInstance.java
+END
+L2ManorManagerInstance.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/model/actor/instance/L2ManorManagerInstance.java
+END
+L2RiftInvaderInstance.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/model/actor/instance/L2RiftInvaderInstance.java
+END
+L2StaticObjectInstance.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/model/actor/instance/L2StaticObjectInstance.java
+END
+L2GrandBossInstance.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/model/actor/instance/L2GrandBossInstance.java
+END
+L2ControlTowerInstance.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/model/actor/instance/L2ControlTowerInstance.java
+END
+L2ClanHallSiegeInfInstance.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/model/actor/instance/L2ClanHallSiegeInfInstance.java
+END
+L2VillageMasterInstance.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/model/actor/instance/L2VillageMasterInstance.java
+END
+L2SiegeSummonInstance.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/model/actor/instance/L2SiegeSummonInstance.java
+END
+L2AdventurerInstance.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/model/actor/instance/L2AdventurerInstance.java
+END
+L2BoxInstance.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/model/actor/instance/L2BoxInstance.java
+END
+L2XmassTreeInstance.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/model/actor/instance/L2XmassTreeInstance.java
+END
+L2DoormenInstance.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/model/actor/instance/L2DoormenInstance.java
+END
+L2FeedableBeastInstance.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/model/actor/instance/L2FeedableBeastInstance.java
+END
+L2WeddingManagerInstance.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/model/actor/instance/L2WeddingManagerInstance.java
+END
+L2FestivalGuideInstance.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/model/actor/instance/L2FestivalGuideInstance.java
+END
+L2TeleporterInstance.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/model/actor/instance/L2TeleporterInstance.java
+END
+L2WarehouseInstance.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/model/actor/instance/L2WarehouseInstance.java
+END
+L2ChestInstance.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/model/actor/instance/L2ChestInstance.java
+END
+L2WyvernManagerInstance.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/model/actor/instance/L2WyvernManagerInstance.java
+END
+L2CastleChamberlainInstance.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/model/actor/instance/L2CastleChamberlainInstance.java
+END
+L2OlympiadManagerInstance.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/model/actor/instance/L2OlympiadManagerInstance.java
+END
+L2PcInstance.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/model/actor/instance/L2PcInstance.java
+END
+L2ArtefactInstance.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/model/actor/instance/L2ArtefactInstance.java
+END
+L2SiegeFlagInstance.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/model/actor/instance/L2SiegeFlagInstance.java
+END
+L2DecoInstance.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/model/actor/instance/L2DecoInstance.java
+END
+L2ControllableMobInstance.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/model/actor/instance/L2ControllableMobInstance.java
+END
+L2RaidBossManagerInstance.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/model/actor/instance/L2RaidBossManagerInstance.java
+END
+L2SignsPriestInstance.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/model/actor/instance/L2SignsPriestInstance.java
+END
+L2FolkInstance.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/model/actor/instance/L2FolkInstance.java
+END
+L2GuardNoHTMLInstance.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/model/actor/instance/L2GuardNoHTMLInstance.java
+END
+L2FortSiegeGuardInstance.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/model/actor/instance/L2FortSiegeGuardInstance.java
+END
+L2CastleMagicianInstance.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/model/actor/instance/L2CastleMagicianInstance.java
+END
+L2CastleWarehouseInstance.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/L2jFrozenInterlude/!svn/ver/1072/trunk/gameserver/head-src/com/l2jfrozen/gameserver/model/actor/instance/L2CastleWarehouseInstance.java
+END
+L2BabyPetInstance.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/model/actor/instance/L2BabyPetInstance.java
+END
+L2CastleBlacksmithInstance.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/L2jFrozenInterlude/!svn/ver/1072/trunk/gameserver/head-src/com/l2jfrozen/gameserver/model/actor/instance/L2CastleBlacksmithInstance.java
+END
+L2CabaleBufferInstance.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/model/actor/instance/L2CabaleBufferInstance.java
+END

@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/skills/funcs
+END
+FuncMul.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/skills/funcs/FuncMul.java
+END
+FuncBaseMul.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/skills/funcs/FuncBaseMul.java
+END
+FuncSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/skills/funcs/FuncSet.java
+END
+FuncTemplate.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/skills/funcs/FuncTemplate.java
+END
+FuncAdd.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/skills/funcs/FuncAdd.java
+END
+FuncDiv.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/skills/funcs/FuncDiv.java
+END
+LambdaCalc.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/skills/funcs/LambdaCalc.java
+END
+FuncSub.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/skills/funcs/FuncSub.java
+END
+LambdaConst.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/skills/funcs/LambdaConst.java
+END
+LambdaStats.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/skills/funcs/LambdaStats.java
+END
+Lambda.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/skills/funcs/Lambda.java
+END
+FuncEnchant.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/skills/funcs/FuncEnchant.java
+END
+Func.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/skills/funcs/Func.java
+END
+LambdaRnd.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/skills/funcs/LambdaRnd.java
+END

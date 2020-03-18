@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/model/base
+END
+ClassLevel.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/model/base/ClassLevel.java
+END
+SubClass.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/model/base/SubClass.java
+END
+PlayerClass.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/model/base/PlayerClass.java
+END
+Sex.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/model/base/Sex.java
+END
+ClassId.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/model/base/ClassId.java
+END
+SoulCrystal.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/model/base/SoulCrystal.java
+END
+ClassType.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/model/base/ClassType.java
+END
+PlayerRace.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/model/base/PlayerRace.java
+END
+Race.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/model/base/Race.java
+END

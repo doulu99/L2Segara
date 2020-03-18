@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/L2jFrozenInterlude/!svn/ver/1072/trunk/gameserver/dist
+END
+startLoginServer.bat
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/L2jFrozenInterlude/!svn/ver/992/trunk/gameserver/dist/startLoginServer.bat
+END
+anti_ddos.sh
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/L2jFrozenInterlude/!svn/ver/59/trunk/gameserver/dist/anti_ddos.sh
+END
+GameServer_loop.sh
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/L2jFrozenInterlude/!svn/ver/1072/trunk/gameserver/dist/GameServer_loop.sh
+END
+Start_LoginServer_noScreen.sh
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/L2jFrozenInterlude/!svn/ver/775/trunk/gameserver/dist/Start_LoginServer_noScreen.sh
+END
+Start_GameServer_noScreen.sh
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/L2jFrozenInterlude/!svn/ver/775/trunk/gameserver/dist/Start_GameServer_noScreen.sh
+END
+startBackup.bat
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/L2jFrozenInterlude/!svn/ver/59/trunk/gameserver/dist/startBackup.bat
+END
+restartGameServer.bat
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/L2jFrozenInterlude/!svn/ver/1072/trunk/gameserver/dist/restartGameServer.bat
+END
+RegisterGameServer.sh
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/L2jFrozenInterlude/!svn/ver/59/trunk/gameserver/dist/RegisterGameServer.sh
+END
+LoginServer_loop.sh
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/L2jFrozenInterlude/!svn/ver/992/trunk/gameserver/dist/LoginServer_loop.sh
+END
+startGameServer.bat
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/L2jFrozenInterlude/!svn/ver/1072/trunk/gameserver/dist/startGameServer.bat
+END
+RegisterGameServer.bat
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/L2jFrozenInterlude/!svn/ver/63/trunk/gameserver/dist/RegisterGameServer.bat
+END
+startBackup.sh
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/L2jFrozenInterlude/!svn/ver/59/trunk/gameserver/dist/startBackup.sh
+END
+restartGameServer.sh
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/L2jFrozenInterlude/!svn/ver/1072/trunk/gameserver/dist/restartGameServer.sh
+END

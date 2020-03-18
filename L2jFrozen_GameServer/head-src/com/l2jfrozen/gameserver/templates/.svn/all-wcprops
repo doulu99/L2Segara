@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/templates
+END
+L2Henna.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/templates/L2Henna.java
+END
+L2WeaponType.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/templates/L2WeaponType.java
+END
+L2EtcItemType.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/templates/L2EtcItemType.java
+END
+L2Item.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/templates/L2Item.java
+END
+L2Armor.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/templates/L2Armor.java
+END
+L2HelperBuff.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/templates/L2HelperBuff.java
+END
+L2CharTemplate.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/templates/L2CharTemplate.java
+END
+L2NpcTemplate.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/templates/L2NpcTemplate.java
+END
+StatsSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/templates/StatsSet.java
+END
+L2PcTemplate.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/templates/L2PcTemplate.java
+END
+L2ItemType.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/templates/L2ItemType.java
+END
+L2ArmorType.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/templates/L2ArmorType.java
+END
+L2Weapon.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/templates/L2Weapon.java
+END
+L2EtcItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/templates/L2EtcItem.java
+END

@@ -1,0 +1,347 @@
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/skills/effects
+END
+EffectMpConsumePerLevel.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/skills/effects/EffectMpConsumePerLevel.java
+END
+EffectMeditation.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/L2jFrozenInterlude/!svn/ver/1072/trunk/gameserver/head-src/com/l2jfrozen/gameserver/skills/effects/EffectMeditation.java
+END
+EffectImmobileUntilAttacked.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/skills/effects/EffectImmobileUntilAttacked.java
+END
+EffectBetray.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/skills/effects/EffectBetray.java
+END
+EffectParalyze.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/skills/effects/EffectParalyze.java
+END
+EffectPsychicalMute.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/skills/effects/EffectPsychicalMute.java
+END
+EffectRemoveTarget.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/skills/effects/EffectRemoveTarget.java
+END
+EffectDebuff.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/L2jFrozenInterlude/!svn/ver/1072/trunk/gameserver/head-src/com/l2jfrozen/gameserver/skills/effects/EffectDebuff.java
+END
+EffectSeed.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/skills/effects/EffectSeed.java
+END
+EffectSignetAntiSummon.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/skills/effects/EffectSignetAntiSummon.java
+END
+EffectDamOverTime.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/skills/effects/EffectDamOverTime.java
+END
+EffectSignetMDam.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/skills/effects/EffectSignetMDam.java
+END
+EffectRelax.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/skills/effects/EffectRelax.java
+END
+EffectSignetNoise.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/skills/effects/EffectSignetNoise.java
+END
+EffectBluff.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/skills/effects/EffectBluff.java
+END
+EffectForce.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/skills/effects/EffectForce.java
+END
+EffectSilentMove.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/skills/effects/EffectSilentMove.java
+END
+EffectConfusion.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/skills/effects/EffectConfusion.java
+END
+EffectFusion.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/skills/effects/EffectFusion.java
+END
+EffectCombatPointHealOverTime.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/skills/effects/EffectCombatPointHealOverTime.java
+END
+EffectSpellForce.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/skills/effects/EffectSpellForce.java
+END
+EffectBestowSkill.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/skills/effects/EffectBestowSkill.java
+END
+EffectNegate.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/skills/effects/EffectNegate.java
+END
+EffectInterrupt.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/skills/effects/EffectInterrupt.java
+END
+EffectProtectionBlessing.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/skills/effects/EffectProtectionBlessing.java
+END
+EffectInvincible.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/skills/effects/EffectInvincible.java
+END
+EffectChameleonRest.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/skills/effects/EffectChameleonRest.java
+END
+EffectBlockBuff.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/skills/effects/EffectBlockBuff.java
+END
+EffectBigHead.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/skills/effects/EffectBigHead.java
+END
+EffectCharmOfLuck.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/skills/effects/EffectCharmOfLuck.java
+END
+EffectFakeDeath.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/skills/effects/EffectFakeDeath.java
+END
+EffectConfuseMob.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/skills/effects/EffectConfuseMob.java
+END
+EffectImobileBuff.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/skills/effects/EffectImobileBuff.java
+END
+EffectStun.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/skills/effects/EffectStun.java
+END
+EffectCancel.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/skills/effects/EffectCancel.java
+END
+EffectTemplate.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/skills/effects/EffectTemplate.java
+END
+EffectMute.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/skills/effects/EffectMute.java
+END
+EffectSleep.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/skills/effects/EffectSleep.java
+END
+EffectCharge.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/skills/effects/EffectCharge.java
+END
+EffectGrow.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/L2jFrozenInterlude/!svn/ver/1072/trunk/gameserver/head-src/com/l2jfrozen/gameserver/skills/effects/EffectGrow.java
+END
+EffectBuff.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/skills/effects/EffectBuff.java
+END
+EffectBattleForce.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/skills/effects/EffectBattleForce.java
+END
+EffectManaHealOverTime.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/skills/effects/EffectManaHealOverTime.java
+END
+EffectFear.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/skills/effects/EffectFear.java
+END
+EffectNoblesseBless.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/skills/effects/EffectNoblesseBless.java
+END
+EffectSignet.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/skills/effects/EffectSignet.java
+END
+EffectPhoenixBless.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/skills/effects/EffectPhoenixBless.java
+END
+EffectPetrification.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/skills/effects/EffectPetrification.java
+END
+EffectTargetMe.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/skills/effects/EffectTargetMe.java
+END
+EffectHealOverTime.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/skills/effects/EffectHealOverTime.java
+END
+EffectManaDamOverTime.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/skills/effects/EffectManaDamOverTime.java
+END
+EffectImobilePetBuff.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/skills/effects/EffectImobilePetBuff.java
+END
+EffectStunSelf.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/skills/effects/EffectStunSelf.java
+END
+EffectSilenceMagicPhysical.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/skills/effects/EffectSilenceMagicPhysical.java
+END
+EffectRoot.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/skills/effects/EffectRoot.java
+END
+EffectClanGate.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/skills/effects/EffectClanGate.java
+END
+EffectDeflectBuff.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/skills/effects/EffectDeflectBuff.java
+END

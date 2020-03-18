@@ -1,0 +1,425 @@
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/handler/admincommandhandlers
+END
+AdminVIPEngine.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/handler/admincommandhandlers/AdminVIPEngine.java
+END
+AdminGmChat.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/handler/admincommandhandlers/AdminGmChat.java
+END
+AdminGeodata.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/handler/admincommandhandlers/AdminGeodata.java
+END
+AdminDisconnect.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/handler/admincommandhandlers/AdminDisconnect.java
+END
+AdminPledge.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/handler/admincommandhandlers/AdminPledge.java
+END
+AdminCTFEngine.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/handler/admincommandhandlers/AdminCTFEngine.java
+END
+AdminEditNpc.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/handler/admincommandhandlers/AdminEditNpc.java
+END
+AdminTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/handler/admincommandhandlers/AdminTest.java
+END
+AdminSiege.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/handler/admincommandhandlers/AdminSiege.java
+END
+AdminTeleport.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/handler/admincommandhandlers/AdminTeleport.java
+END
+AdminLogin.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/handler/admincommandhandlers/AdminLogin.java
+END
+AdminInvul.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/handler/admincommandhandlers/AdminInvul.java
+END
+AdminCursedWeapons.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/handler/admincommandhandlers/AdminCursedWeapons.java
+END
+AdminRideWyvern.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/handler/admincommandhandlers/AdminRideWyvern.java
+END
+AdminMassRecall.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/L2jFrozenInterlude/!svn/ver/1072/trunk/gameserver/head-src/com/l2jfrozen/gameserver/handler/admincommandhandlers/AdminMassRecall.java
+END
+AdminChristmas.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/handler/admincommandhandlers/AdminChristmas.java
+END
+AdminCache.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/handler/admincommandhandlers/AdminCache.java
+END
+AdminBoat.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/handler/admincommandhandlers/AdminBoat.java
+END
+AdminWho.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/handler/admincommandhandlers/AdminWho.java
+END
+AdminPolymorph.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/handler/admincommandhandlers/AdminPolymorph.java
+END
+AdminEventEngine.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/handler/admincommandhandlers/AdminEventEngine.java
+END
+AdminNoble.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/handler/admincommandhandlers/AdminNoble.java
+END
+AdminDonator.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/handler/admincommandhandlers/AdminDonator.java
+END
+AdminReload.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/handler/admincommandhandlers/AdminReload.java
+END
+AdminPForge.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/handler/admincommandhandlers/AdminPForge.java
+END
+AdminShop.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/handler/admincommandhandlers/AdminShop.java
+END
+AdminWalker.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/handler/admincommandhandlers/AdminWalker.java
+END
+AdminFightCalculator.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/handler/admincommandhandlers/AdminFightCalculator.java
+END
+AdminSkill.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/handler/admincommandhandlers/AdminSkill.java
+END
+AdminChangeAccessLevel.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/handler/admincommandhandlers/AdminChangeAccessLevel.java
+END
+AdminDoorControl.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/handler/admincommandhandlers/AdminDoorControl.java
+END
+AdminTarget.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/handler/admincommandhandlers/AdminTarget.java
+END
+AdminMonsterRace.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/handler/admincommandhandlers/AdminMonsterRace.java
+END
+AdminZone.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/handler/admincommandhandlers/AdminZone.java
+END
+AdminDMEngine.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/handler/admincommandhandlers/AdminDMEngine.java
+END
+AdminScript.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/handler/admincommandhandlers/AdminScript.java
+END
+AdminAio.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/handler/admincommandhandlers/AdminAio.java
+END
+AdminFortSiege.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/handler/admincommandhandlers/AdminFortSiege.java
+END
+AdminQuest.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/handler/admincommandhandlers/AdminQuest.java
+END
+AdminManor.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/handler/admincommandhandlers/AdminManor.java
+END
+AdminKill.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/handler/admincommandhandlers/AdminKill.java
+END
+AdminSpawn.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/handler/admincommandhandlers/AdminSpawn.java
+END
+AdminExpSp.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/handler/admincommandhandlers/AdminExpSp.java
+END
+AdminShutdown.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/handler/admincommandhandlers/AdminShutdown.java
+END
+AdminBBS.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/handler/admincommandhandlers/AdminBBS.java
+END
+AdminCharSupervision.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/handler/admincommandhandlers/AdminCharSupervision.java
+END
+AdminCreateItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/handler/admincommandhandlers/AdminCreateItem.java
+END
+AdminAnnouncements.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/handler/admincommandhandlers/AdminAnnouncements.java
+END
+AdminDelete.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/handler/admincommandhandlers/AdminDelete.java
+END
+AdminKick.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/handler/admincommandhandlers/AdminKick.java
+END
+AdminLevel.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/L2jFrozenInterlude/!svn/ver/1072/trunk/gameserver/head-src/com/l2jfrozen/gameserver/handler/admincommandhandlers/AdminLevel.java
+END
+AdminEffects.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/handler/admincommandhandlers/AdminEffects.java
+END
+AdminBuffs.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/L2jFrozenInterlude/!svn/ver/1072/trunk/gameserver/head-src/com/l2jfrozen/gameserver/handler/admincommandhandlers/AdminBuffs.java
+END
+AdminEditChar.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/handler/admincommandhandlers/AdminEditChar.java
+END
+AdminMobGroup.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/handler/admincommandhandlers/AdminMobGroup.java
+END
+AdminMenu.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/handler/admincommandhandlers/AdminMenu.java
+END
+AdminPetition.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/handler/admincommandhandlers/AdminPetition.java
+END
+AdminUnblockIp.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/handler/admincommandhandlers/AdminUnblockIp.java
+END
+AdminEnchant.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/handler/admincommandhandlers/AdminEnchant.java
+END
+AdminTownWar.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/handler/admincommandhandlers/AdminTownWar.java
+END
+AdminTvTEngine.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/handler/admincommandhandlers/AdminTvTEngine.java
+END
+AdminMammon.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/handler/admincommandhandlers/AdminMammon.java
+END
+AdminAdmin.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/handler/admincommandhandlers/AdminAdmin.java
+END
+AdminBan.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/handler/admincommandhandlers/AdminBan.java
+END
+AdminHelpPage.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/handler/admincommandhandlers/AdminHelpPage.java
+END
+AdminMassControl.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/handler/admincommandhandlers/AdminMassControl.java
+END
+AdminHeal.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/handler/admincommandhandlers/AdminHeal.java
+END
+AdminGm.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/handler/admincommandhandlers/AdminGm.java
+END
+AdminRepairChar.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/handler/admincommandhandlers/AdminRepairChar.java
+END
+AdminRes.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/handler/admincommandhandlers/AdminRes.java
+END

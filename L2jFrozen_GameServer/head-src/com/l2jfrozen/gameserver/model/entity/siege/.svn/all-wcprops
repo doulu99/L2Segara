@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/model/entity/siege
+END
+ClanHallSiege.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/model/entity/siege/ClanHallSiege.java
+END
+Siege.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/model/entity/siege/Siege.java
+END
+Fort.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/model/entity/siege/Fort.java
+END
+Castle.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/model/entity/siege/Castle.java
+END
+FortSiege.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/model/entity/siege/FortSiege.java
+END

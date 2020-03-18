@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/handler/voicedcommandhandlers
+END
+Repair.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/handler/voicedcommandhandlers/Repair.java
+END
+AwayCmd.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/handler/voicedcommandhandlers/AwayCmd.java
+END
+TvTCmd.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/handler/voicedcommandhandlers/TvTCmd.java
+END
+Voting.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/handler/voicedcommandhandlers/Voting.java
+END
+FarmPvpCmd.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/handler/voicedcommandhandlers/FarmPvpCmd.java
+END
+CTFCmd.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/handler/voicedcommandhandlers/CTFCmd.java
+END
+VersionCmd.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/handler/voicedcommandhandlers/VersionCmd.java
+END
+SetClanCmd.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/handler/voicedcommandhandlers/SetClanCmd.java
+END
+CastleCmd.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/handler/voicedcommandhandlers/CastleCmd.java
+END
+StatsCmd.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/handler/voicedcommandhandlers/StatsCmd.java
+END
+OfflineShop.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/handler/voicedcommandhandlers/OfflineShop.java
+END
+Wedding.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/handler/voicedcommandhandlers/Wedding.java
+END
+BankingCmd.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/handler/voicedcommandhandlers/BankingCmd.java
+END
+Online.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/handler/voicedcommandhandlers/Online.java
+END
+DMCmd.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/handler/voicedcommandhandlers/DMCmd.java
+END

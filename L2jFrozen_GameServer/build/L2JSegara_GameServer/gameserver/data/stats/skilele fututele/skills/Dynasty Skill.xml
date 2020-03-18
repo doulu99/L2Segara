@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf-8'?>
+<list>
+<!-- Dynasty Heavy -->
+<skill id="6300" levels="1" name="Dynasty Heavy Armor Set">
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="BUFF"/>
+  <set name="operateType" val="OP_PASSIVE"/>
+  <set name="castRange" val="-1"/>
+  <set name="effectRange" val="-1"/>
+  <for>
+    <mul order="0x30" stat="pDef" val="1.1"/> <!-- P Def. +10% -->
+    <add order="0x40" stat="maxHp" val="650"/> <!-- Maximum HP +650 -->
+    <mul order="0x30" stat="sleepVuln" val="0.75"/> <!-- Sleep Resistence +75% -->
+    <mul order="0x30" stat="rootVuln" val="0.75"/> <!-- Hold Resistence +75% -->
+    <sub order="0x40" stat="DEX" val="2"/> <!-- DEX -2 -->
+    <add order="0x40" stat="STR" val="2"/> <!-- STR +2 -->
+  </for>
+</skill>
+<skill id="6301" levels="1" name="Equipped with Shield">
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="BUFF"/>
+  <set name="operateType" val="OP_PASSIVE"/>
+  <set name="castRange" val="-1"/>
+  <set name="effectRange" val="-1"/>
+  <for>
+    <mul val='0.2' order='0x30' stat='poisonVuln'/>
+    <mul val='0.2' order='0x30' stat='bleedVuln'/>
+  </for>
+</skill>
+
+<!-- Dynasty Light -->
+<skill id="6302" levels="1" name="Dynasty Light Armor Set">
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="BUFF"/>
+  <set name="operateType" val="OP_PASSIVE"/>
+  <set name="castRange" val="-1"/>
+  <set name="effectRange" val="-1"/>
+  <for>
+    <mul order="0x30" stat="pAtkSpd" val="1.06"/> <!-- Attack Speed +6% -->
+    <mul order="0x30" stat="pAtk" val="1.06"/> <!-- P. Atk +6% -->
+    <add order="0x40" stat="maxMp" val="489"/> <!-- Maximum MP +489 -->
+    <add order="0x40" stat="maxLoad" val="6000"/> <!-- Weight Limit +6000 -->
+    <add order="0x40" stat="DEX" val="1"/> <!-- DEX +1 -->
+    <add order="0x40" stat="STR" val="1"/> <!-- STR +1 -->
+    <sub order="0x40" stat="CON" val="2"/> <!-- CON -2 -->
+  </for>
+</skill>
+
+<!-- Dynasty Robe -->
+<skill id="6303" levels="1" name="Dynasty Robe Set">
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="BUFF"/>
+  <set name="operateType" val="OP_PASSIVE"/>
+  <set name="castRange" val="-1"/>
+  <set name="effectRange" val="-1"/>
+  <for>
+    <mul order="0x30" stat="mAtk" val="1.18"/> <!-- M. Atk +19% -->
+    <mul order="0x30" stat="mAtkSpd" val="1.06"/> <!-- Casting Speed +6% -->
+	<add order="0x40" stat="mAtkSpd" val="150"/> <!-- bonus mAtk.Speed -->
+    <add order="0x40" stat="runSpd" val="11"/> <!-- Movement Speed +11 -->
+    <sub order="0x40" stat="cancel" val="50"/> <!-- Casting Cancel Probability -50% -->
+    <add order="0x40" stat="maxLoad" val="6000"/> <!-- Weight Limit +6000 -->
+    <add order="0x40" stat="WIT" val="1"/> <!-- WIT +1 -->
+    <add order="0x40" stat="INT" val="1"/> <!-- INT +1 -->
+    <sub order="0x40" stat="MEN" val="2"/> <!-- MEN -2 -->
+    <mul order="0x30" stat="stunVuln" val="0.5"/> <!-- Stun resistance +50% -->
+  </for>
+</skill>
+</list>

@@ -1,0 +1,151 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<list maintainEnchantment="true" applyTaxes="true">
+
+<!-- Dynasty Rapier -->
+
+<item id="2">
+<ingredient id="9900" count="500"/>
+<ingredient id="5575" count="15000000"/>
+<ingredient id="57" count="4000000"/>
+<production id="9800" count="1"/>
+</item>
+
+<!-- Dynasty Ancient Sword -->
+
+<item id="3">
+<ingredient id="9900" count="500"/>
+<ingredient id="5575" count="15000000"/>
+<ingredient id="57" count="4000000"/>
+<production id="9804" count="1"/>
+</item>
+
+<!-- Dynasty Blade -->
+
+<item id="4">
+<ingredient id="9900" count="500"/>
+<ingredient id="5575" count="15000000"/>
+<ingredient id="57" count="4000000"/>
+<production id="9808" count="1"/>
+  </item>
+
+
+<!-- Dynasty Two Handed Sword -->
+
+<item id="5">
+<ingredient id="9900" count="500"/>
+<ingredient id="5575" count="15000000"/>
+<ingredient id="57" count="4000000"/>
+<production id="9812" count="1"/>
+  </item>
+
+<!-- Dynasty Magic Sword -->
+
+<item id="6">
+<ingredient id="9900" count="500"/>
+<ingredient id="5575" count="15000000"/>
+<ingredient id="57" count="4000000"/>
+<production id="9816" count="1"/>
+  </item>
+
+<!-- Dynasty Bow -->
+
+<item id="7">
+<ingredient id="9900" count="500"/>
+<ingredient id="5575" count="15000000"/>
+<ingredient id="57" count="4000000"/>
+<production id="9820" count="1"/>
+  </item>
+  
+<!-- Dynasty Dagger -->
+
+<item id="8">
+<ingredient id="9900" count="500"/>
+<ingredient id="5575" count="15000000"/>
+<ingredient id="57" count="4000000"/>
+<production id="9824" count="1"/>
+  </item>
+
+<!-- Dynasty Spear -->
+
+<item id="9">
+<ingredient id="9900" count="500"/>
+<ingredient id="5575" count="15000000"/>
+<ingredient id="57" count="4000000"/>
+<production id="9828" count="1"/>
+  </item>
+
+<!-- Dynasty Hammer -->
+
+<item id="10">
+<ingredient id="9900" count="500"/>
+<ingredient id="5575" count="15000000"/>
+<ingredient id="57" count="4000000"/>
+<production id="9832" count="1"/>
+  </item>
+
+<!-- Dynasty Staff -->
+
+<item id="11">
+<ingredient id="9900" count="500"/>
+<ingredient id="5575" count="15000000"/>
+<ingredient id="57" count="4000000"/>
+<production id="9836" count="1"/>
+  </item>
+
+<!-- Dynasty Fist -->
+
+<item id="12">
+<ingredient id="9900" count="500"/>
+<ingredient id="5575" count="15000000"/>
+<ingredient id="57" count="4000000"/>
+<production id="9840" count="1"/>
+  </item>
+
+<!-- Dynasty Crusher -->
+
+<item id="13">
+<ingredient id="9900" count="500"/>
+<ingredient id="5575" count="15000000"/>
+<ingredient id="57" count="4000000"/>
+<production id="9846" count="1"/>
+  </item>
+
+<!-- Dynasty Two Handed Staff -->
+
+<item id="14">
+<ingredient id="9900" count="500"/>
+<ingredient id="5575" count="15000000"/>
+<ingredient id="57" count="4000000"/>
+<production id="9850" count="1"/>
+  </item>
+    
+<!-- Dual Dynasty Weapon -->
+
+<item id="15">
+<ingredient id="9900" count="500" isTaxIngredient="true"/>
+<ingredient id="5575" count="25000000" isTaxIngredient="true"/>
+<ingredient id="57" count="8000000"/>
+<ingredient id="8678" count="1"/>
+<ingredient id="6364" count="1"/>
+<production id="9854" count="1"/>
+</item>
+
+<!-- Dynasty Chield -->
+
+<item id="17">
+<ingredient id="9900" count="100"/>
+<ingredient id="5575" count="11000000"/>
+<ingredient id="57" count="500000"/>
+<production id="9844" count="1"/>
+</item>
+
+
+<item id="18">
+<ingredient id="9900" count="100"/>
+<ingredient id="5575" count="11000000"/>
+<ingredient id="57" count="500000"/>
+<production id="9845" count="1"/>
+</item>
+
+</list>

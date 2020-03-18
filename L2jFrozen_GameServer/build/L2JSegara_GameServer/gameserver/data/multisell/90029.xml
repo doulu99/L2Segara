@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='utf-8'?>
+<list>
+
+	<!-- crystal scroll B/A/S -->
+	
+    <item id="1">
+    <production id="949" count="1"/>
+    <ingredient id="9903" count="3"/>
+	</item>
+  
+    <item id="2">
+    <production id="950" count="1"/>
+    <ingredient id="9903" count="4"/>
+	</item>
+  
+    <item id="3">
+    <production id="731" count="1"/>
+    <ingredient id="9903" count="4"/>
+	</item>
+  
+    <item id="4">
+    <production id="732" count="1"/>
+    <ingredient id="9903" count="5"/>
+	</item>
+  
+    <item id="5">
+    <production id="961" count="1"/>
+    <ingredient id="9903" count="50"/>
+	</item>
+  
+    <item id="6">
+    <production id="962" count="1"/>
+    <ingredient id="9903" count="50"/>
+	</item>
+	
+	<!-- special accerosy -->
+	
+	<item id="7">
+	<ingredient id="9903" count="100"/>
+	<production id="8660" count="1"/>
+	</item>
+	
+	<item id="8">
+	<ingredient id="9903" count="100"/>
+	<production id="8661" count="1"/>
+	</item>
+	
+	<!-- Monster shield -->
+	
+	<item id="9">
+	<ingredient id="9903" count="35"/>
+	<production id="6721" count="1"/>
+	</item>
+	
+	<item id="10">
+	<ingredient id="9903" count="35"/>
+	<production id="5799" count="1"/>
+	</item>
+	
+	<!-- rec item -->
+	
+	<item id="11">
+	<ingredient id="9903" count="10"/>
+	<production id="9899" count="1"/>
+	</item>
+	
+		<!-- Hero Coin -->
+	<item id="12">
+	<ingredient id="9903" count="200"/>
+	<production id="3481" count="1"/>
+	</item>
+	
+		
+</list>

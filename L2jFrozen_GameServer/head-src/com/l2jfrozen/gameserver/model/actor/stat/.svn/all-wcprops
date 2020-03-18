@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/model/actor/stat
+END
+CharStat.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/model/actor/stat/CharStat.java
+END
+PcStat.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/model/actor/stat/PcStat.java
+END
+SummonStat.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/model/actor/stat/SummonStat.java
+END
+NpcStat.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/model/actor/stat/NpcStat.java
+END
+PetStat.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/model/actor/stat/PetStat.java
+END
+PlayableStat.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/model/actor/stat/PlayableStat.java
+END
+DoorStat.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/model/actor/stat/DoorStat.java
+END

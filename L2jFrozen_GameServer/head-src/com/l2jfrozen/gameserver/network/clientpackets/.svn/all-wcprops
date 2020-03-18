@@ -1,0 +1,1253 @@
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/network/clientpackets
+END
+RequestPledgeExtendedInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/network/clientpackets/RequestPledgeExtendedInfo.java
+END
+RequestAskJoinPartyRoom.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/network/clientpackets/RequestAskJoinPartyRoom.java
+END
+FinishRotating.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/network/clientpackets/FinishRotating.java
+END
+RequestFriendList.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/network/clientpackets/RequestFriendList.java
+END
+RequestOlympiadObserverEnd.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/network/clientpackets/RequestOlympiadObserverEnd.java
+END
+RequestWithdrawPartyRoom.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/network/clientpackets/RequestWithdrawPartyRoom.java
+END
+RequestPetitionCancel.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/network/clientpackets/RequestPetitionCancel.java
+END
+RequestDismissPartyRoom.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/network/clientpackets/RequestDismissPartyRoom.java
+END
+CharacterCreate.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/network/clientpackets/CharacterCreate.java
+END
+CharacterSelected.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/network/clientpackets/CharacterSelected.java
+END
+RequestExMPCCShowPartyMembersInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/network/clientpackets/RequestExMPCCShowPartyMembersInfo.java
+END
+RequestShortCutReg.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/network/clientpackets/RequestShortCutReg.java
+END
+RequestDuelSurrender.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/network/clientpackets/RequestDuelSurrender.java
+END
+RequestWithdrawalPledge.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/network/clientpackets/RequestWithdrawalPledge.java
+END
+DlgAnswer.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/network/clientpackets/DlgAnswer.java
+END
+RequestRefine.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/network/clientpackets/RequestRefine.java
+END
+SendBypassBuildCmd.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/network/clientpackets/SendBypassBuildCmd.java
+END
+RequestCursedWeaponList.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/network/clientpackets/RequestCursedWeaponList.java
+END
+RequestBBSwrite.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/network/clientpackets/RequestBBSwrite.java
+END
+SuperCmdSummonCmd.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/network/clientpackets/SuperCmdSummonCmd.java
+END
+RequestTutorialPassCmdToServer.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/network/clientpackets/RequestTutorialPassCmdToServer.java
+END
+RequestShowMiniMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/network/clientpackets/RequestShowMiniMap.java
+END
+RequestPledgeReorganizeMember.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/network/clientpackets/RequestPledgeReorganizeMember.java
+END
+RequestGMCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/network/clientpackets/RequestGMCommand.java
+END
+RequestAllyInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/network/clientpackets/RequestAllyInfo.java
+END
+RequestRecipeBookDestroy.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/network/clientpackets/RequestRecipeBookDestroy.java
+END
+RequestSSQStatus.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/network/clientpackets/RequestSSQStatus.java
+END
+RequestRecipeShopMakeItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/network/clientpackets/RequestRecipeShopMakeItem.java
+END
+RequestJoinAlly.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/network/clientpackets/RequestJoinAlly.java
+END
+DummyPacket.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/network/clientpackets/DummyPacket.java
+END
+RequestPartyMatchConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/network/clientpackets/RequestPartyMatchConfig.java
+END
+RequestPledgeCrest.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/network/clientpackets/RequestPledgeCrest.java
+END
+RequestRecipeShopManagePrev.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/network/clientpackets/RequestRecipeShopManagePrev.java
+END
+RequestSetPledgeCrest.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/network/clientpackets/RequestSetPledgeCrest.java
+END
+RequestOustPartyMember.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/network/clientpackets/RequestOustPartyMember.java
+END
+RequestEvaluate.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/network/clientpackets/RequestEvaluate.java
+END
+TradeDone.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/network/clientpackets/TradeDone.java
+END
+CharacterRestore.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/network/clientpackets/CharacterRestore.java
+END
+RequestTutorialClientEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/network/clientpackets/RequestTutorialClientEvent.java
+END
+RequestCrystallizeItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/network/clientpackets/RequestCrystallizeItem.java
+END
+RequestWearItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/network/clientpackets/RequestWearItem.java
+END
+AllyLeave.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/network/clientpackets/AllyLeave.java
+END
+ValidatePosition.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/network/clientpackets/ValidatePosition.java
+END
+RequestConfirmCancelItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/network/clientpackets/RequestConfirmCancelItem.java
+END
+RequestFriendDel.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/network/clientpackets/RequestFriendDel.java
+END
+RequestQuestAbort.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/network/clientpackets/RequestQuestAbort.java
+END
+RequestHennaItemInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/network/clientpackets/RequestHennaItemInfo.java
+END
+RequestPledgeInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/network/clientpackets/RequestPledgeInfo.java
+END
+SuperCmdServerStatus.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/network/clientpackets/SuperCmdServerStatus.java
+END
+RequestGmList.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/network/clientpackets/RequestGmList.java
+END
+RequestJoinPledge.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/network/clientpackets/RequestJoinPledge.java
+END
+AllyDismiss.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/network/clientpackets/AllyDismiss.java
+END
+RequestPledgeMemberPowerInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/network/clientpackets/RequestPledgeMemberPowerInfo.java
+END
+RequestChangePartyLeader.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/network/clientpackets/RequestChangePartyLeader.java
+END
+RequestAnswerJoinAlly.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/network/clientpackets/RequestAnswerJoinAlly.java
+END
+RequestGiveNickName.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/network/clientpackets/RequestGiveNickName.java
+END
+RequestJoinParty.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/network/clientpackets/RequestJoinParty.java
+END
+RequestSiegeInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/network/clientpackets/RequestSiegeInfo.java
+END
+RequestPackageSendableItemList.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/network/clientpackets/RequestPackageSendableItemList.java
+END
+RequestBuyItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/network/clientpackets/RequestBuyItem.java
+END
+RequestOustPledgeMember.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/network/clientpackets/RequestOustPledgeMember.java
+END
+ObserverReturn.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/network/clientpackets/ObserverReturn.java
+END
+RequestSetSeed.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/network/clientpackets/RequestSetSeed.java
+END
+RequestGetOffVehicle.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/network/clientpackets/RequestGetOffVehicle.java
+END
+MoveWithDelta.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/network/clientpackets/MoveWithDelta.java
+END
+ProtocolVersion.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/network/clientpackets/ProtocolVersion.java
+END
+RequestEnchantItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/network/clientpackets/RequestEnchantItem.java
+END
+RequestStartPledgeWar.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/network/clientpackets/RequestStartPledgeWar.java
+END
+RequestHennaEquip.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/network/clientpackets/RequestHennaEquip.java
+END
+RequestUnEquipItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/network/clientpackets/RequestUnEquipItem.java
+END
+RequestShowBoard.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/network/clientpackets/RequestShowBoard.java
+END
+AnswerJoinPartyRoom.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/network/clientpackets/AnswerJoinPartyRoom.java
+END
+RequestSkillCoolTime.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/network/clientpackets/RequestSkillCoolTime.java
+END
+RequestSurrenderPledgeWar.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/network/clientpackets/RequestSurrenderPledgeWar.java
+END
+SetPrivateStoreMsgSell.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/network/clientpackets/SetPrivateStoreMsgSell.java
+END
+ChangeWaitType2.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/network/clientpackets/ChangeWaitType2.java
+END
+RequestAllyCrest.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/network/clientpackets/RequestAllyCrest.java
+END
+RequestRecipeShopMakeInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/network/clientpackets/RequestRecipeShopMakeInfo.java
+END
+RequestAnswerJoinParty.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/network/clientpackets/RequestAnswerJoinParty.java
+END
+RequestRecipeShopMessageSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/network/clientpackets/RequestRecipeShopMessageSet.java
+END
+Appearing.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/network/clientpackets/Appearing.java
+END
+CannotMoveAnymore.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/network/clientpackets/CannotMoveAnymore.java
+END
+RequestSetAllyCrest.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/network/clientpackets/RequestSetAllyCrest.java
+END
+RequestRecipeItemMakeInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/network/clientpackets/RequestRecipeItemMakeInfo.java
+END
+L2GameClientPacket.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/network/clientpackets/L2GameClientPacket.java
+END
+RequestTargetCanceld.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/network/clientpackets/RequestTargetCanceld.java
+END
+NewCharacter.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/network/clientpackets/NewCharacter.java
+END
+AnswerTradeRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/network/clientpackets/AnswerTradeRequest.java
+END
+RequestExEnchantSkillInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/network/clientpackets/RequestExEnchantSkillInfo.java
+END
+RequestConfirmRefinerItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/network/clientpackets/RequestConfirmRefinerItem.java
+END
+RequestGetOnVehicle.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/network/clientpackets/RequestGetOnVehicle.java
+END
+MoveBackwardToLocation.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/network/clientpackets/MoveBackwardToLocation.java
+END
+RequestPrivateStoreManageSell.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/network/clientpackets/RequestPrivateStoreManageSell.java
+END
+RequestSurrenderPersonally.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/network/clientpackets/RequestSurrenderPersonally.java
+END
+SendWareHouseDepositList.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/network/clientpackets/SendWareHouseDepositList.java
+END
+AuthLogin.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/network/clientpackets/AuthLogin.java
+END
+RequestSkillList.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/network/clientpackets/RequestSkillList.java
+END
+RequestItemList.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/network/clientpackets/RequestItemList.java
+END
+RequestPartyMatchDetail.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/network/clientpackets/RequestPartyMatchDetail.java
+END
+RequestExSetPledgeCrestLarge.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/network/clientpackets/RequestExSetPledgeCrestLarge.java
+END
+RequestBuyProcure.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/network/clientpackets/RequestBuyProcure.java
+END
+RequestExEnchantSkill.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/network/clientpackets/RequestExEnchantSkill.java
+END
+UseItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/network/clientpackets/UseItem.java
+END
+SuperCmdCharacterInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/network/clientpackets/SuperCmdCharacterInfo.java
+END
+RequestBypassToServer.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/network/clientpackets/RequestBypassToServer.java
+END
+RequestPledgeSetAcademyMaster.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/network/clientpackets/RequestPledgeSetAcademyMaster.java
+END
+RequestLinkHtml.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/network/clientpackets/RequestLinkHtml.java
+END
+RequestDismissAlly.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/network/clientpackets/RequestDismissAlly.java
+END
+RequestSocialAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/network/clientpackets/RequestSocialAction.java
+END
+RequestExitPartyMatchingWaitingRoom.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/network/clientpackets/RequestExitPartyMatchingWaitingRoom.java
+END
+RequestRecipeBookOpen.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/network/clientpackets/RequestRecipeBookOpen.java
+END
+RequestRestartPoint.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/network/clientpackets/RequestRestartPoint.java
+END
+RequestPrivateStoreQuitSell.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/network/clientpackets/RequestPrivateStoreQuitSell.java
+END
+RequestManorList.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/network/clientpackets/RequestManorList.java
+END
+TradeRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/network/clientpackets/TradeRequest.java
+END
+RequestAquireSkill.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/network/clientpackets/RequestAquireSkill.java
+END
+RequestRecipeItemMakeSelf.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/network/clientpackets/RequestRecipeItemMakeSelf.java
+END
+RequestReplyStartPledgeWar.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/network/clientpackets/RequestReplyStartPledgeWar.java
+END
+RequestExMagicSkillUseGround.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/network/clientpackets/RequestExMagicSkillUseGround.java
+END
+RequestRecipeShopManageQuit.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/network/clientpackets/RequestRecipeShopManageQuit.java
+END
+SetPrivateStoreMsgBuy.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/network/clientpackets/SetPrivateStoreMsgBuy.java
+END
+RequestGetBossRecord.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/network/clientpackets/RequestGetBossRecord.java
+END
+RequestReplySurrenderPledgeWar.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/network/clientpackets/RequestReplySurrenderPledgeWar.java
+END
+RequestSetCrop.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/network/clientpackets/RequestSetCrop.java
+END
+MultiSellChoose.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/network/clientpackets/MultiSellChoose.java
+END
+RequestPrivateStoreSell.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/network/clientpackets/RequestPrivateStoreSell.java
+END
+RequestPledgeWarList.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/network/clientpackets/RequestPledgeWarList.java
+END
+RequestPledgePower.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/network/clientpackets/RequestPledgePower.java
+END
+RequestDuelStart.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/network/clientpackets/RequestDuelStart.java
+END
+RequestGetItemFromPet.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/network/clientpackets/RequestGetItemFromPet.java
+END
+RequestPledgePowerGradeList.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/network/clientpackets/RequestPledgePowerGradeList.java
+END
+RequestExOustFromMPCC.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/network/clientpackets/RequestExOustFromMPCC.java
+END
+RequestRecipeShopManageList.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/network/clientpackets/RequestRecipeShopManageList.java
+END
+RequestPrivateStoreManageBuy.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/network/clientpackets/RequestPrivateStoreManageBuy.java
+END
+RequestJoinSiege.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/network/clientpackets/RequestJoinSiege.java
+END
+RequestHennaList.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/network/clientpackets/RequestHennaList.java
+END
+RequestDeleteMacro.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/network/clientpackets/RequestDeleteMacro.java
+END
+RequestProcureCropList.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/network/clientpackets/RequestProcureCropList.java
+END
+SetPrivateStoreListSell.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/network/clientpackets/SetPrivateStoreListSell.java
+END
+RequestRecordInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/network/clientpackets/RequestRecordInfo.java
+END
+RequestPetition.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/network/clientpackets/RequestPetition.java
+END
+RequestSendFriendMsg.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/network/clientpackets/RequestSendFriendMsg.java
+END
+RequestPetUseItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/network/clientpackets/RequestPetUseItem.java
+END
+RequestBuySeed.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/network/clientpackets/RequestBuySeed.java
+END
+AttackRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/network/clientpackets/AttackRequest.java
+END
+RequestPledgeSetMemberPowerGrade.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/network/clientpackets/RequestPledgeSetMemberPowerGrade.java
+END
+RequestExAskJoinMPCC.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/network/clientpackets/RequestExAskJoinMPCC.java
+END
+SnoopQuit.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/network/clientpackets/SnoopQuit.java
+END
+RequestPCCafeCouponUse.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/network/clientpackets/RequestPCCafeCouponUse.java
+END
+RequestRestart.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/network/clientpackets/RequestRestart.java
+END
+RequestPackageSend.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/network/clientpackets/RequestPackageSend.java
+END
+RequestSiegeDefenderList.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/network/clientpackets/RequestSiegeDefenderList.java
+END
+RequestWriteHeroWords.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/network/clientpackets/RequestWriteHeroWords.java
+END
+RequestExPledgeCrestLarge.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/network/clientpackets/RequestExPledgeCrestLarge.java
+END
+RequestBlock.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/network/clientpackets/RequestBlock.java
+END
+RequestStopPledgeWar.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/network/clientpackets/RequestStopPledgeWar.java
+END
+RequestDuelAnswerStart.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/network/clientpackets/RequestDuelAnswerStart.java
+END
+RequestPetGetItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/network/clientpackets/RequestPetGetItem.java
+END
+GameGuardReply.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/network/clientpackets/GameGuardReply.java
+END
+ChangeMoveType2.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/network/clientpackets/ChangeMoveType2.java
+END
+Action.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/network/clientpackets/Action.java
+END
+RequestRefineCancel.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/network/clientpackets/RequestRefineCancel.java
+END
+RequestFriendInvite.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/network/clientpackets/RequestFriendInvite.java
+END
+CharacterDelete.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/network/clientpackets/CharacterDelete.java
+END
+RequestMagicSkillUse.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/network/clientpackets/RequestMagicSkillUse.java
+END
+RequestSellItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/network/clientpackets/RequestSellItem.java
+END
+RequestTutorialLinkHtml.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/network/clientpackets/RequestTutorialLinkHtml.java
+END
+RequestDropItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/network/clientpackets/RequestDropItem.java
+END
+RequestPledgeMemberInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/network/clientpackets/RequestPledgeMemberInfo.java
+END
+RequestPartyMatchList.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/network/clientpackets/RequestPartyMatchList.java
+END
+RequestAutoSoulShot.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/network/clientpackets/RequestAutoSoulShot.java
+END
+RequestPrivateStoreQuitBuy.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/network/clientpackets/RequestPrivateStoreQuitBuy.java
+END
+SendWareHouseWithDrawList.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/network/clientpackets/SendWareHouseWithDrawList.java
+END
+RequestActionUse.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/network/clientpackets/RequestActionUse.java
+END
+RequestOustFromPartyRoom.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/network/clientpackets/RequestOustFromPartyRoom.java
+END
+RequestPledgeMemberList.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/network/clientpackets/RequestPledgeMemberList.java
+END
+RequestDestroyItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/network/clientpackets/RequestDestroyItem.java
+END
+EnterWorld.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/network/clientpackets/EnterWorld.java
+END
+StartRotating.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/network/clientpackets/StartRotating.java
+END
+CannotMoveAnymoreInVehicle.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/network/clientpackets/CannotMoveAnymoreInVehicle.java
+END
+RequestPrivateStoreBuy.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/network/clientpackets/RequestPrivateStoreBuy.java
+END
+RequestMoveToLocationInVehicle.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/network/clientpackets/RequestMoveToLocationInVehicle.java
+END
+RequestAnswerFriendInvite.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/network/clientpackets/RequestAnswerFriendInvite.java
+END
+RequestCursedWeaponLocation.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/network/clientpackets/RequestCursedWeaponLocation.java
+END
+RequestUserCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/network/clientpackets/RequestUserCommand.java
+END
+RequestGiveItemToPet.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/network/clientpackets/RequestGiveItemToPet.java
+END
+RequestSiegeAttackerList.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/network/clientpackets/RequestSiegeAttackerList.java
+END
+RequestAnswerJoinPledge.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/network/clientpackets/RequestAnswerJoinPledge.java
+END
+RequestMakeMacro.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/network/clientpackets/RequestMakeMacro.java
+END
+RequestConfirmSiegeWaitingList.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/network/clientpackets/RequestConfirmSiegeWaitingList.java
+END
+RequestChangePetName.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/network/clientpackets/RequestChangePetName.java
+END
+Logout.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/network/clientpackets/Logout.java
+END
+SetPrivateStoreListBuy.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/network/clientpackets/SetPrivateStoreListBuy.java
+END
+RequestConfirmGemStone.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/network/clientpackets/RequestConfirmGemStone.java
+END
+Say2.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/network/clientpackets/Say2.java
+END
+RequestOlympiadMatchList.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/network/clientpackets/RequestOlympiadMatchList.java
+END
+RequestWithDrawalParty.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/network/clientpackets/RequestWithDrawalParty.java
+END
+RequestTutorialQuestionMark.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/network/clientpackets/RequestTutorialQuestionMark.java
+END
+RequestExFishRanking.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/network/clientpackets/RequestExFishRanking.java
+END
+RequestAquireSkillInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/network/clientpackets/RequestAquireSkillInfo.java
+END
+RequestExAcceptJoinMPCC.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/network/clientpackets/RequestExAcceptJoinMPCC.java
+END
+AddTradeItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/network/clientpackets/AddTradeItem.java
+END
+RequestShortCutDel.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/network/clientpackets/RequestShortCutDel.java
+END
+RequestConfirmTargetItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/network/clientpackets/RequestConfirmTargetItem.java
+END
+RequestListPartyMatchingWaitingRoom.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/network/clientpackets/RequestListPartyMatchingWaitingRoom.java
+END
+RequestReplyStopPledgeWar.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/network/clientpackets/RequestReplyStopPledgeWar.java
+END
+RequestQuestList.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/network/clientpackets/RequestQuestList.java
+END
+RequestRecipeShopListSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/network/clientpackets/RequestRecipeShopListSet.java
+END

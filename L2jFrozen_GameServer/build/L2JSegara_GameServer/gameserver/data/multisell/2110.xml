@@ -1,0 +1,387 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<list maintainEnchantment="true" applyTaxes="true">
+
+	 <!-- Imperial Crusader Helmet -->
+  <item id="1">
+ 	<ingredient id="9900" count="367" isTaxIngredient="true"/>
+ 	<ingredient id="4042" count="3" isTaxIngredient="true"/>
+	<ingredient id="5575" count="5000000"/>
+	<ingredient id="57" count="12000000"/>
+	<!-- S grade to Apella armor -->
+    <ingredient id="6378" count="1"/>
+	<production id="9215" count="1"/>
+  </item>
+  
+  <!-- Imperial Crusader Breastplate -->
+  <item id="2">
+ 	<ingredient id="9900" count="727" isTaxIngredient="true"/>
+ 	<ingredient id="4042" count="6" isTaxIngredient="true"/>
+  <ingredient id="5575" count="10000000"/>
+	<ingredient id="57" count="15000000"/>
+	<!-- S grade to Apella armor -->
+    <ingredient id="6373" count="1"/>
+	<production id="9216" count="1"/>
+  </item>
+  
+    <!-- Imperial Crusader Breastplate -->
+  <item id="3">
+ 	<ingredient id="9900" count="727" isTaxIngredient="true"/>
+ 	<ingredient id="4042" count="6" isTaxIngredient="true"/>
+  <ingredient id="5575" count="10000000"/>
+	<ingredient id="57" count="15000000"/>
+	<!-- S grade to Apella armor -->
+	<ingredient id="6374" count="1"/>
+	<production id="9217" count="1"/>
+  </item>
+
+  <!-- Imperial Crusader Boots -->
+  <item id="4">
+ 	<ingredient id="9900" count="367" isTaxIngredient="true"/>
+ 	<ingredient id="4042" count="3" isTaxIngredient="true"/>
+  <ingredient id="5575" count="5000000"/>
+	<ingredient id="57" count="12000000"/>
+	<!-- S grade to Apella armor -->
+    <ingredient id="6376" count="1"/>
+	<production id="9219" count="1"/>
+  </item>
+
+  <!-- Imperial Crusader Gauntlets -->
+  <item id="5">
+ 	<ingredient id="9900" count="367" isTaxIngredient="true"/>
+ 	<ingredient id="4042" count="3" isTaxIngredient="true"/>
+	<ingredient id="5575" count="5000000"/>
+	<ingredient id="57" count="12000000"/>
+	<!-- S grade to Apella armor -->
+    <ingredient id="6375" count="1"/>
+	<production id="9218" count="1"/>
+  </item>
+	
+    <!-- Draconic Leather Helmet -->
+  <item id="6">
+ 	<ingredient id="9900" count="347" isTaxIngredient="true"/>
+ 	<ingredient id="4042" count="3" isTaxIngredient="true"/>
+  <ingredient id="5575" count="5000000"/>
+	<ingredient id="57" count="12000000"/>
+	<!-- S grade to Apella armor -->
+    <ingredient id="6382" count="1"/>
+	<production id="9220" count="1"/>
+  </item>
+  
+	<!-- Draconic Leather Armor -->
+  <item id="7">
+ 	<ingredient id="9900" count="817" isTaxIngredient="true"/>
+ 	<ingredient id="4042" count="6" isTaxIngredient="true"/>
+  <ingredient id="5575" count="15000000"/>
+	<ingredient id="57" count="15000000"/>
+	<!-- S grade to Apella armor -->
+    <ingredient id="6379" count="1"/>
+	<production id="9221" count="1"/>
+	<production id="9222" count="1"/>
+  </item>
+
+  <!-- Draconic Leather Boots -->
+  <item id="8">
+ 	<ingredient id="9900" count="347" isTaxIngredient="true"/>
+ 	<ingredient id="4042" count="3" isTaxIngredient="true"/>
+  <ingredient id="5575" count="5000000"/>
+	<ingredient id="57" count="12000000"/>
+	<!-- S grade to Apella armor -->
+    <ingredient id="6381" count="1"/>
+	<production id="9224" count="1"/>
+  </item>
+
+  <!-- Draconic Leather Gloves -->
+  <item id="9">
+ 	<ingredient id="9900" count="347" isTaxIngredient="true"/>
+ 	<ingredient id="4042" count="3" isTaxIngredient="true"/>
+	<ingredient id="5575" count="5000000"/>
+	<ingredient id="57" count="12000000"/>
+	<!-- S grade to Apella armor -->
+    <ingredient id="6380" count="1"/>
+	<production id="9223" count="1"/>
+  </item>
+
+    <!-- Major Arcana Circlet -->
+  <item id="10">
+ 	<ingredient id="9900" count="347" isTaxIngredient="true"/>
+ 	<ingredient id="4042" count="3" isTaxIngredient="true"/>
+  <ingredient id="5575" count="5000000"/>
+	<ingredient id="57" count="12000000"/>
+	<!-- S grade to Apella armor -->
+    <ingredient id="6386" count="1"/>
+	<production id="9225" count="1"/>
+  </item>
+  
+  <!-- Major Arcana Robe -->
+  <item id="11">
+ 	<ingredient id="9900" count="487" isTaxIngredient="true"/>
+ 	<ingredient id="4042" count="6" isTaxIngredient="true"/>
+  <ingredient id="5575" count="15000000"/>
+	<ingredient id="57" count="15000000"/>
+	<!-- S grade to Apella armor -->
+    <ingredient id="6383" count="1"/>
+	<production id="9226" count="1"/>
+	<production id="9227" count="1"/>
+  </item>
+
+  <!-- Major Arcana Boots -->
+  <item id="12">
+ 	<ingredient id="9900" count="347" isTaxIngredient="true"/>
+ 	<ingredient id="4042" count="3" isTaxIngredient="true"/>
+  <ingredient id="5575" count="10000000"/>
+	<ingredient id="57" count="12000000"/>
+	<!-- S grade to Apella armor -->
+    <ingredient id="6385" count="1"/>
+	<production id="9229" count="1"/>
+  </item>
+  
+  <!-- Major Arcana Gloves -->
+  <item id="13">
+ 	<ingredient id="9900" count="347" isTaxIngredient="true"/>
+ 	<ingredient id="4042" count="3" isTaxIngredient="true"/>
+  <ingredient id="5575" count="5000000"/>
+	<ingredient id="57" count="12000000"/>
+	<!-- S grade to Apella armor -->
+  <ingredient id="6384" count="1"/>
+	<production id="9228" count="1"/>
+  </item>  
+  
+  
+  <!-- 
+  This is Special Shop by Developer Luna
+  Apella Armor H/L/R to
+  Dynasty Armor H/L/R
+  -->
+  
+  
+  
+  	 <!-- S grade to Apella armor -->
+  <item id="14">
+ 	<ingredient id="9900" count="547" isTaxIngredient="true"/>
+ 	<ingredient id="9905" count="2" isTaxIngredient="true"/>
+	<ingredient id="9906" count="262" isTaxIngredient="true"/>
+	<ingredient id="9907" count="387" isTaxIngredient="true"/>
+	<ingredient id="9908" count="2" isTaxIngredient="true"/>
+	<ingredient id="4042" count="4" isTaxIngredient="true"/>
+	<ingredient id="5575" count="6500000"/>
+	<ingredient id="57" count="12000000"/>
+	<!-- S grade to Dynasty armor -->
+    <ingredient id="9215" count="1"/>
+	<production id="9935" count="1"/>
+  </item>
+  
+  <!-- S grade to Apella armor -->
+  <item id="15">
+ 	<ingredient id="9900" count="847" isTaxIngredient="true"/>
+ 	<ingredient id="9905" count="2" isTaxIngredient="true"/>
+	<ingredient id="9906" count="362" isTaxIngredient="true"/>
+	<ingredient id="9907" count="587" isTaxIngredient="true"/>
+	<ingredient id="9908" count="2" isTaxIngredient="true"/>
+	<ingredient id="4042" count="5" isTaxIngredient="true"/>
+  <ingredient id="5575" count="15000000"/>
+	<ingredient id="57" count="15000000"/>
+	<!-- S grade to Dynasty armor -->
+    <ingredient id="9216" count="1"/>
+	<production id="9933" count="1"/>
+  </item>
+  
+    <!-- S grade to Apella armor -->
+  <item id="16">		
+ 	<ingredient id="9900" count="867" isTaxIngredient="true"/>
+ 	<ingredient id="9905" count="2" isTaxIngredient="true"/>
+	<ingredient id="9906" count="282" isTaxIngredient="true"/>
+	<ingredient id="9907" count="487" isTaxIngredient="true"/>
+	<ingredient id="9908" count="2" isTaxIngredient="true"/>
+	<ingredient id="4042" count="5" isTaxIngredient="true"/>
+  <ingredient id="5575" count="15000000"/>
+	<ingredient id="57" count="15000000"/>
+	<!-- S grade to Dynasty armor -->
+	<ingredient id="9217" count="1"/>
+	<production id="9934" count="1"/>
+  </item>
+
+  <!-- S grade to Apella armor -->
+  <item id="17">
+ 	<ingredient id="9900" count="547" isTaxIngredient="true"/>
+ 	<ingredient id="9905" count="2" isTaxIngredient="true"/>
+	<ingredient id="9906" count="262" isTaxIngredient="true"/>
+	<ingredient id="9907" count="387" isTaxIngredient="true"/>
+	<ingredient id="9908" count="2" isTaxIngredient="true"/>
+	<ingredient id="4042" count="3" isTaxIngredient="true"/>
+  <ingredient id="5575" count="6500000"/>
+	<ingredient id="57" count="12000000"/>
+	<!-- S grade to Dynasty armor -->
+    <ingredient id="9218" count="1"/>
+	<production id="9936" count="1"/>
+  </item>
+
+  <!-- S grade to Apella armor -->
+  <item id="18">
+ 	<ingredient id="9900" count="547" isTaxIngredient="true"/>
+ 	<ingredient id="9905" count="2" isTaxIngredient="true"/>
+	<ingredient id="9906" count="262" isTaxIngredient="true"/>
+	<ingredient id="9907" count="387" isTaxIngredient="true"/>
+	<ingredient id="9908" count="2" isTaxIngredient="true"/>
+	<ingredient id="4042" count="3" isTaxIngredient="true"/>
+	<ingredient id="5575" count="6500000"/>
+	<ingredient id="57" count="12000000"/>
+	<!-- S grade to Dynasty armor -->
+    <ingredient id="9219" count="1"/>
+	<production id="9937" count="1"/>
+  </item>
+	
+    <!-- S grade to Apella armor LIGHT -->
+  <item id="19">
+ 	<ingredient id="9900" count="547" isTaxIngredient="true"/>
+ 	<ingredient id="9905" count="2" isTaxIngredient="true"/>
+	<ingredient id="9906" count="262" isTaxIngredient="true"/>
+	<ingredient id="9907" count="387" isTaxIngredient="true"/>
+	<ingredient id="9908" count="2" isTaxIngredient="true"/>
+	<ingredient id="4042" count="3" isTaxIngredient="true"/>
+	<ingredient id="5575" count="6500000"/>
+	<ingredient id="57" count="12000000"/>
+	<!-- S grade to Dynasty armor -->
+    <ingredient id="9220" count="1"/>
+	<production id="9940" count="1"/>
+  </item>
+  
+	<!-- S grade to Apella armor -->
+  <item id="20">
+ 	<ingredient id="9900" count="847" isTaxIngredient="true"/>
+ 	<ingredient id="9905" count="2" isTaxIngredient="true"/>
+	<ingredient id="9906" count="362" isTaxIngredient="true"/>
+	<ingredient id="9907" count="587" isTaxIngredient="true"/>
+	<ingredient id="9908" count="2" isTaxIngredient="true"/>
+	<ingredient id="4042" count="5" isTaxIngredient="true"/>
+	<ingredient id="5575" count="15000000"/>
+	<ingredient id="57" count="15000000"/>
+	<!-- S grade to Dynasty armor -->
+    <ingredient id="9221" count="1"/>
+	<production id="9938" count="1"/>
+  </item>
+  
+  	<!-- S grade to Apella armor -->
+  <item id="21">
+ 	<ingredient id="9900" count="867" isTaxIngredient="true"/>
+ 	<ingredient id="9905" count="2" isTaxIngredient="true"/>
+	<ingredient id="9906" count="282" isTaxIngredient="true"/>
+	<ingredient id="9907" count="487" isTaxIngredient="true"/>
+	<ingredient id="9908" count="2" isTaxIngredient="true"/>
+	<ingredient id="4042" count="5" isTaxIngredient="true"/>
+	<ingredient id="5575" count="15000000"/>
+	<ingredient id="57" count="15000000"/>
+	<!-- S grade to Dynasty armor -->
+    <ingredient id="9222" count="1"/>
+	<production id="9939" count="1"/>
+  </item>
+
+  <!-- S grade to Apella armor -->
+  <item id="22">
+ 	<ingredient id="9900" count="547" isTaxIngredient="true"/>
+ 	<ingredient id="9905" count="2" isTaxIngredient="true"/>
+	<ingredient id="9906" count="262" isTaxIngredient="true"/>
+	<ingredient id="9907" count="387" isTaxIngredient="true"/>
+	<ingredient id="9908" count="2" isTaxIngredient="true"/>
+	<ingredient id="4042" count="3" isTaxIngredient="true"/>
+	<ingredient id="5575" count="6500000"/>
+	<ingredient id="57" count="12000000"/>
+	<!-- S grade to Dynasty armor -->
+    <ingredient id="9223" count="1"/>
+	<production id="9941" count="1"/>
+  </item>
+
+  <!-- S grade to Apella armor -->
+  <item id="23">
+ 	<ingredient id="9900" count="547" isTaxIngredient="true"/>
+ 	<ingredient id="9905" count="2" isTaxIngredient="true"/>
+	<ingredient id="9906" count="262" isTaxIngredient="true"/>
+	<ingredient id="9907" count="387" isTaxIngredient="true"/>
+	<ingredient id="9908" count="2" isTaxIngredient="true"/>
+	<ingredient id="4042" count="3" isTaxIngredient="true"/>
+	<ingredient id="5575" count="6500000"/>
+	<ingredient id="57" count="12000000"/>
+	<!-- S grade to Dynasty armor -->
+    <ingredient id="9224" count="1"/>
+	<production id="9942" count="1"/>
+  </item>
+
+    <!-- S grade to Apella armor ROBE -->
+  <item id="24">
+ 	<ingredient id="9900" count="547" isTaxIngredient="true"/>
+ 	<ingredient id="9905" count="2" isTaxIngredient="true"/>
+	<ingredient id="9906" count="262" isTaxIngredient="true"/>
+	<ingredient id="9907" count="387" isTaxIngredient="true"/>
+	<ingredient id="9908" count="2" isTaxIngredient="true"/>
+	<ingredient id="4042" count="3" isTaxIngredient="true"/>
+	<ingredient id="5575" count="6500000"/>
+	<ingredient id="57" count="12000000"/>
+	<!-- S grade to Dynasty armor -->
+    <ingredient id="9225" count="1"/>
+	<production id="9945" count="1"/>
+  </item>
+  
+	<!-- S grade to Apella armor -->
+  <item id="25">
+ 	<ingredient id="9900" count="847" isTaxIngredient="true"/>
+ 	<ingredient id="9905" count="2" isTaxIngredient="true"/>
+	<ingredient id="9906" count="362" isTaxIngredient="true"/>
+	<ingredient id="9907" count="587" isTaxIngredient="true"/>
+	<ingredient id="9908" count="2" isTaxIngredient="true"/>
+	<ingredient id="4042" count="5" isTaxIngredient="true"/>
+	<ingredient id="5575" count="15000000"/>
+	<ingredient id="57" count="15000000"/>
+	<!-- S grade to Dynasty armor -->
+    <ingredient id="9226" count="1"/>
+	<production id="9943" count="1"/>
+  </item>
+  
+  
+    <!-- S grade to Apella armor -->
+  <item id="26">
+ 	<ingredient id="9900" count="867" isTaxIngredient="true"/>
+ 	<ingredient id="9905" count="2" isTaxIngredient="true"/>
+	<ingredient id="9906" count="282" isTaxIngredient="true"/>
+	<ingredient id="9907" count="487" isTaxIngredient="true"/>
+	<ingredient id="9908" count="2" isTaxIngredient="true"/>
+	<ingredient id="4042" count="5" isTaxIngredient="true"/>
+	<ingredient id="5575" count="15000000"/>
+	<ingredient id="57" count="15000000"/>
+	<!-- S grade to Dynasty armor -->
+    <ingredient id="9227" count="1"/>
+	<production id="9944" count="1"/>
+  </item>
+  
+
+  <!-- S grade to Apella armor -->
+  <item id="27">
+ 	<ingredient id="9900" count="547" isTaxIngredient="true"/>
+ 	<ingredient id="9905" count="2" isTaxIngredient="true"/>
+	<ingredient id="9906" count="262" isTaxIngredient="true"/>
+	<ingredient id="9907" count="387" isTaxIngredient="true"/>
+	<ingredient id="9908" count="2" isTaxIngredient="true"/>
+	<ingredient id="4042" count="3" isTaxIngredient="true"/>
+	<ingredient id="5575" count="6500000"/>
+	<ingredient id="57" count="12000000"/>
+	<!-- S grade to Dynasty armor -->
+    <ingredient id="9228" count="1"/>
+	<production id="9946" count="1"/>
+  </item>
+  
+  <!-- S grade to Apella armor -->
+  <item id="28">
+ 	<ingredient id="9900" count="547" isTaxIngredient="true"/>
+ 	<ingredient id="9905" count="2" isTaxIngredient="true"/>
+	<ingredient id="9906" count="262" isTaxIngredient="true"/>
+	<ingredient id="9907" count="387" isTaxIngredient="true"/>
+	<ingredient id="9908" count="2" isTaxIngredient="true"/>
+	<ingredient id="4042" count="3" isTaxIngredient="true"/>
+	<ingredient id="5575" count="6500000"/>
+	<ingredient id="57" count="12000000"/>
+	<!-- S grade to Dynasty armor -->
+	<ingredient id="9229" count="1"/>
+	<production id="9947" count="1"/>
+  </item>  
+  
+  
+</list>

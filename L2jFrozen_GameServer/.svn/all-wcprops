@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver
+END
+build.properties
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/L2jFrozenInterlude/!svn/ver/585/trunk/gameserver/build.properties
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/L2jFrozenInterlude/!svn/ver/1072/trunk/gameserver/build.xml
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/L2jFrozenInterlude/!svn/ver/904/trunk/gameserver/.project
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/L2jFrozenInterlude/!svn/ver/1072/trunk/gameserver/.classpath
+END
+.directory
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/L2jFrozenInterlude/!svn/ver/59/trunk/gameserver/.directory
+END

@@ -1,0 +1,107 @@
+<?xml version='1.0' encoding='utf-8'?>
+<list>
+<item id='9215' name="Titanium Helmet">
+  <for>
+    <add val='96' order='0x10' stat='pDef'/>
+    <enchant val='0' order='0x0C' stat='pDef'/>
+  </for>
+</item>
+
+<item id='9216' name="Titanium Breastplate">
+  <for> 
+    <add val='238' order='0x10' stat='pDef'/> 
+    <enchant val='0' order='0x0C' stat='pDef'/> 
+  </for> 
+</item>
+
+<item id='9217' name="Titanium Gaiters">
+  <for>
+    <add val='149' order='0x10' stat='pDef'/>
+    <enchant val='0' order='0x0C' stat='pDef'/>
+  </for>
+</item>
+
+<item id='9218' name="Titanium Gauntlets">
+  <for>
+    <add val='64' order='0x10' stat='pDef'/>
+    <enchant val='0' order='0x0C' stat='pDef'/>
+  </for>
+</item>
+
+<item id='9219' name="Titanium Boots">
+  <for>
+    <add val='64' order='0x10' stat='pDef'/>
+    <enchant val='0' order='0x0C' stat='pDef'/>
+  </for>
+</item>
+<item id='9220' name="Titanium Leather Helmet">
+  <for>
+    <add val='96' order='0x10' stat='pDef'/>
+    <enchant val='0' order='0x0C' stat='pDef'/>
+  </for>
+</item>
+
+<item id='9221' name="Titanium Leather Armor"> 
+  <for> 
+	<add val='178' order='0x10' stat='pDef'/> 
+    <enchant val='0' order='0x0C' stat='pDef'/>
+  </for>
+</item>
+
+<item id='9222' name="Titanium Leather Pants">
+  <for>
+    <add val='111' order='0x10' stat='pDef'/>
+    <enchant val='0' order='0x0C' stat='pDef'/>
+  </for>
+</item>
+
+<item id='9223' name="Titanium Leather Gloves">
+  <for>
+    <add val='64' order='0x10' stat='pDef'/>
+    <enchant val='0' order='0x0C' stat='pDef'/>
+  </for>
+</item>
+
+<item id='9224' name="Titanium Leather Boots">
+  <for>
+    <add val='64' order='0x10' stat='pDef'/>
+    <enchant val='0' order='0x0C' stat='pDef'/>
+  </for>
+</item>
+
+<item id='9225' name="Titanium Circlet">
+  <for>
+    <add val='96' order='0x10' stat='pDef'/>
+    <enchant val='0' order='0x0C' stat='pDef'/>
+  </for>
+</item>
+
+<item id='9226' name="Titanium Robe">
+  <for> 
+	<add val='119' order='0x10' stat='pDef'/> 
+	<add val='866' order='0x60' stat='maxMp'/> 
+    <enchant val='0' order='0x0C' stat='pDef'/>
+  </for> 
+</item>
+
+<item id='9227' name="Titanium Stockings">
+  <for>
+    <add val='74' order='0x10' stat='pDef'/>
+    <enchant val='0' order='0x0C' stat='pDef'/>
+  </for>
+</item>
+
+<item id='9228' name="Titanium Gloves">
+  <for>
+    <add val='64' order='0x10' stat='pDef'/>
+    <enchant val='0' order='0x0C' stat='pDef'/>
+  </for>
+</item>
+
+<item id='9229' name="Titanium Boots">
+  <for>
+    <add val='64' order='0x10' stat='pDef'/>
+    <enchant val='0' order='0x0C' stat='pDef'/>
+  </for>
+</item>
+</list>

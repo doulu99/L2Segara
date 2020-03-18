@@ -1,0 +1,73 @@
+<html><title>Game Menu</title><body>
+<center>
+<font color="FF9900" align="center">_______________________________________</font>
+<table width=240>
+	<tr>
+		<td><button value="Main" action="bypass -h admin_admin" width=65 height=15 back="sek.cbui94" fore="sek.cbui92"></td>
+		<td><button value="Game" action="bypass -h admin_admin2" width=65 height=15 back="sek.cbui94" fore="sek.cbui92"></td>
+		<td><button value="Effects" action="bypass -h admin_admin3" width=65 height=15 back="sek.cbui94" fore="sek.cbui92"></td>
+		<td><button value="Server" action="bypass -h admin_admin4" width=65 height=15 back="sek.cbui94" fore="sek.cbui92"></td>
+	</tr>
+</table>
+<font color="FF9900" align="center">_______________________________________</font>
+<table width=240><tr>
+<td>QuickBox:</td>
+<td><edit var="menu_command" width=120 height=15></td>
+</tr>
+</table>
+<font color="FF9900" align="center">_______________________________________</font>
+<br1>
+<font color="FF9900">Character related:</font>
+<table width=240>
+	<tr>
+		<td><button value="Manage" action="bypass -h admin_char_manage" width=65 height=15 back="sek.cbui94" fore="sek.cbui92"></td>
+		<td><button value="List" action="bypass -h admin_show_characters 0" width=65 height=15 back="sek.cbui94" fore="sek.cbui92"></td>
+		<td><button value="Set Name" action="bypass -h admin_setname $menu_command" width=65 height=15 back="sek.cbui94" fore="sek.cbui92"></td>
+		<td><button value="Set Title" action="bypass -h admin_settitle $menu_command" width=65 height=15 back="sek.cbui94" fore="sek.cbui92"></td>
+	</tr>
+</table>
+<font color="FF9900">Clan related:</font>
+<table width=240>
+	<tr>
+		<td><button value="Create" action="bypass -h admin_pledge create $menu_command" width=65 height=15 back="sek.cbui94" fore="sek.cbui92"></td>
+		<td><button value="Delete" action="bypass -h admin_pledge dismiss $menu_command" width=65 height=15 back="sek.cbui94" fore="sek.cbui92"></td>
+		<td><button value="Set Level" action="bypass -h admin_pledge setlevel $menu_command" width=65 height=15 back="sek.cbui94" fore="sek.cbui92"></td>
+		<td><button value="Reputation" action="bypass -h admin_pledge rep $menu_command" width=65 height=15 back="sek.cbui94" fore="sek.cbui92"></td>
+	</tr>
+</table>
+<table width=240>
+	<tr>
+		<td><button value="Castles/CH" action="bypass -h admin_siege" width=65 height=15 back="sek.cbui94" fore="sek.cbui92"></td>
+		<td><button value="Info" action="bypass -h admin_pledge info" width=65 height=15 back="sek.cbui94" fore="sek.cbui92"></td>
+		<td><button value="Fortress" action="bypass -h admin_fortsiege" width=65 height=15 back="sek.cbui94" fore="sek.cbui92"></td>
+		<td><button value="Mods" action="bypass -h admin_admin5" width=65 height=15 back="sek.cbui94" fore="sek.cbui92"></td>
+	</tr>
+</table>
+<font color="FF9900">Cursed Weapons:</font>
+<table width=200>
+	<tr>
+		<td><button value="Info" action="bypass -h admin_cw_info_menu $menu_command" width=65 height=15 back="sek.cbui94" fore="sek.cbui92"></td>
+		<td><button value="Add" action="bypass -h admin_cw_add $menu_command" width=65 height=15 back="sek.cbui94" fore="sek.cbui92"></td>
+		<td><button value="Remove" action="bypass -h admin_cw_remove $menu_command" width=65 height=15 back="sek.cbui94" fore="sek.cbui92"></td>
+	</tr>
+</table>
+<font color="FF9900">Seven Signs:</font>
+<table width=200>
+	<tr>
+		<td><button value="Blacksmith" action="bypass -h admin_mammon_find 1" width=65 height=15 back="sek.cbui94" fore="sek.cbui92"></td>
+		<td><button value="Merchant" action="bypass -h admin_mammon_find 2" width=65 height=15 back="sek.cbui94" fore="sek.cbui92"></td>
+		<td><button value="Respawn" action="bypass -h admin_mammon_respawn" width=65 height=15 back="sek.cbui94" fore="sek.cbui92"></td>
+	</tr>
+</table>
+<font color="FF9900">Olympiad:</font>
+<table width=200>
+	<tr>
+		<td><button value="Save Oly" action="bypass -h admin_saveolymp" width=65 height=15 back="sek.cbui94" fore="sek.cbui92"></td>
+		<td><button value="Player Stats" action="bypass -h admin_olympiad_stat" width=65 height=15 back="sek.cbui94" fore="sek.cbui92"></td>
+		<td><button value="Manual Hero" action="bypass -h admin_manualhero" width=65 height=15 back="sek.cbui94" fore="sek.cbui92"></td>
+	</tr>
+</table>
+
+</center>
+</body>
+</html>

@@ -1,0 +1,37 @@
+[20.03.12 18:44:57] '---': Created new character : GheMaX for account: ghemax1
+[20.03.12 18:49:54] '---': RequestTimeOut(268477615) 80 lvl did damage 57558 with skill Tribunal(400) to RaidBoss Flame of Splendor Barakiel(25325)83 lvl
+[20.03.12 18:57:53] '---': Offline trader GheMaX stored.
+[20.03.12 22:06:54] '---': Created new character : Lemon for account: caster
+[20.03.12 22:54:52] '---': RaidBossSpawnManager: Updated Evil Spirit Tempest respawn time to 1584065391165
+[20.03.13 2:41:46] '---': Offline trader KidsNextDoor stored.
+[20.03.13 4:51:40] '---': Offline trader Aegis stored.
+[20.03.13 6:09:25] '---': Rhythm(268483168) 71 lvl did damage 90027 with skill Hurricane(1239) to Ketra Orc Warrior(21331)65 lvl
+[20.03.13 6:10:22] '---': Rhythm(268483168) 71 lvl did damage 90027 with skill Hurricane(1239) to Ketra Orc Warrior(21331)65 lvl
+[20.03.13 6:12:35] '---': Rhythm(268483168) 72 lvl did damage 121360 with skill Hurricane(1239) to Ketra Orc Warrior(21331)65 lvl
+[20.03.13 6:13:02] '---': Rhythm(268483168) 72 lvl did damage 121360 with skill Hurricane(1239) to Ketra Orc Warrior(21331)65 lvl
+[20.03.13 6:13:05] '---': Rhythm(268483168) 72 lvl did damage 93354 with skill Hurricane(1239) to Ketra Orc Warrior(21331)65 lvl
+[20.03.13 6:13:19] '---': Rhythm(268483168) 72 lvl did damage 93354 with skill Hurricane(1239) to Ketra Orc Warrior(21331)65 lvl
+[20.03.13 6:13:33] '---': Rhythm(268483168) 72 lvl did damage 93354 with skill Hurricane(1239) to Ketra Orc Warrior(21331)65 lvl
+[20.03.13 6:30:26] '---': Created new character : Nigga for account: ghemax
+[20.03.13 6:35:29] '---': Rhythm(268483168) 74 lvl did damage 126495 with skill Hurricane(1239) to Ketra Orc Warrior(21331)65 lvl
+[20.03.13 6:35:43] '---': Rhythm(268483168) 74 lvl did damage 126495 with skill Hurricane(1239) to Ketra Orc Warrior(21331)65 lvl
+[20.03.13 6:35:50] '---': Rhythm(268483168) 74 lvl did damage 97304 with skill Hurricane(1239) to Ketra Orc Warrior(21331)65 lvl
+[20.03.13 6:39:36] '---': Rhythm(268483168) 75 lvl did damage 127226 with skill Hurricane(1239) to Ketra Orc Warrior(21331)65 lvl
+[20.03.13 7:06:55] '---': Created new character : Warcryer for account: buffer
+[20.03.13 7:56:04] '---': Rhythm(268483168) 76 lvl did damage 102949 with skill Hurricane(1239) to Ketra Orc Warrior(21331)65 lvl
+[20.03.13 7:56:08] '---': Rhythm(268483168) 76 lvl did damage 102949 with skill Hurricane(1239) to Ketra Orc Warrior(21331)65 lvl
+[20.03.13 9:22:59] '---': AngelicDemon(268482016) 80 lvl did damage 58328 with skill Death Spike(1148) to RaidBoss Uruka(25527)86 lvl
+[20.03.13 9:23:03] '---': AngelicDemon(268482016) 80 lvl did damage 58859 with skill Hurricane(1239) to RaidBoss Uruka(25527)86 lvl
+[20.03.13 9:23:07] '---': AngelicDemon(268482016) 80 lvl did damage 58328 with skill Death Spike(1148) to RaidBoss Uruka(25527)86 lvl
+[20.03.13 9:23:09] '---': AngelicDemon(268482016) 80 lvl did damage 58859 with skill Hurricane(1239) to RaidBoss Uruka(25527)86 lvl
+[20.03.13 9:23:12] '---': AngelicDemon(268482016) 80 lvl did damage 74236 with skill Wind Vortex(1341) to RaidBoss Uruka(25527)86 lvl
+[20.03.13 9:23:21] '---': AngelicDemon(268482016) 80 lvl did damage 89084 with skill Wind Vortex(1341) to RaidBoss Uruka(25527)86 lvl
+[20.03.13 9:23:26] '---': AngelicDemon(268482016) 80 lvl did damage 70630 with skill Hurricane(1239) to RaidBoss Uruka(25527)86 lvl
+[20.03.13 13:49:12] '---': Created new character : Cardinal for account: laevandroid
+[20.03.13 14:15:19] '---': Rhythm(268483168) 78 lvl did damage 76800 with skill Hurricane(1239) to Goblin(20003)5 lvl
+[20.03.13 14:16:29] '---': Rhythm(268483168) 78 lvl did damage 80951 with skill Hurricane(1239) to Ashen Wolf(20456)4 lvl
+[20.03.13 14:18:10] '---': Rhythm(268483168) 78 lvl did damage 76800 with skill Hurricane(1239) to Goblin(20003)5 lvl
+[20.03.13 15:57:27] '---': Created new character : Amaranthine for account: backpaw
+[20.03.13 17:09:10] '---': Created new character : Amaranthine for account: laevandroid
+[20.03.13 18:39:02] '---': RaidBossSpawnManager: Updated Heroic Lord respawn time to 1584151837641
+[20.03.13 18:50:43] '---': Created new character : LOUIS for account: louis050517

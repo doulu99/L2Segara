@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/netcore
+END
+NetcoreConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/L2jFrozenInterlude/!svn/ver/1072/trunk/gameserver/head-src/com/l2jfrozen/netcore/NetcoreConfig.java
+END
+MMOConnection.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/netcore/MMOConnection.java
+END
+NioNetStackList.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/netcore/NioNetStackList.java
+END
+SendablePacket.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/netcore/SendablePacket.java
+END
+MMOClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/netcore/MMOClient.java
+END
+AbstractPacket.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/netcore/AbstractPacket.java
+END
+NioNetStringBuffer.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/L2jFrozenInterlude/!svn/ver/1072/trunk/gameserver/head-src/com/l2jfrozen/netcore/NioNetStringBuffer.java
+END
+IMMOExecutor.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/netcore/IMMOExecutor.java
+END
+SelectorThread.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/netcore/SelectorThread.java
+END
+IAcceptFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/netcore/IAcceptFilter.java
+END
+IPacketHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/netcore/IPacketHandler.java
+END
+IClientFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/netcore/IClientFactory.java
+END
+ReceivablePacket.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/netcore/ReceivablePacket.java
+END
+SelectorConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/netcore/SelectorConfig.java
+END

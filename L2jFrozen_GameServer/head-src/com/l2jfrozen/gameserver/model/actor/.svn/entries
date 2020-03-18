@@ -1,0 +1,49 @@
+10
+
+dir
+1118
+http://subversion.assembla.com/svn/L2jFrozenInterlude/trunk/gameserver/head-src/com/l2jfrozen/gameserver/model/actor
+http://subversion.assembla.com/svn/L2jFrozenInterlude
+
+
+
+2014-12-23T19:18:26.364032Z
+1117
+Shyla
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+5215a6b0-ad85-4b3a-91a5-8dbf2feb3788
+
+appearance
+dir
+
+instance
+dir
+
+knownlist
+dir
+
+poly
+dir
+
+position
+dir
+
+stat
+dir
+
+status
+dir
+

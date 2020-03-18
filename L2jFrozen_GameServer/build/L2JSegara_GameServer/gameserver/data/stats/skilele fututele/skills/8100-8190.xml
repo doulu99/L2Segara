@@ -1,0 +1,377 @@
+<?xml version='1.0' encoding='utf-8'?>
+<list>
+<!-- * Class Balance by [Developer Luna] *
+
+     Fixed damage by ressist for mage 
+	 same class give 800 dmg and same
+	 give low or up if you need fix it
+	 you can change from classDamage -->
+
+<skill id="8100" levels="1" name="Gladiator">
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="BUFF"/>
+  <set name="operateType" val="OP_PASSIVE"/>
+  <set name="castRange" val="-1"/>
+  <set name="effectRange" val="-1"/>
+  <for>  
+  	<add val='100' order='0x40' stat='maxHp'/>
+	<mul val='0.8' order='0x30' stat='maxHp'/>
+	<mul val='0.8' order='0x30' stat='maxCp'/>
+	<add order="0x40" stat="accCombat" val="15"/>
+    <mul order="0x30" stat="pvpPhysSkillsDmg" val="1.2"/>
+    <mul order="0x30" stat="bowWpnVuln" val="0.9"/>
+  </for>
+</skill>
+
+<skill id="8101" levels="1" name="Warlord">
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="BUFF"/>
+  <set name="operateType" val="OP_PASSIVE"/>
+  <set name="castRange" val="-1"/>
+  <set name="effectRange" val="-1"/>
+  <for>
+      <add order="0x40" stat="accCombat" val="30"/>
+	  <mul order="0x30" stat="bowWpnVuln" val="0.8"/>
+  </for>
+</skill>
+
+<skill id="8102" levels="1" name="Paladin">
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="BUFF"/>
+  <set name="operateType" val="OP_PASSIVE"/>
+  <set name="castRange" val="-1"/>
+  <set name="effectRange" val="-1"/>
+  <for>
+      <add order="0x40" stat="accCombat" val="15"/>
+	  <sub order="0x40" stat="pAtk" val="1737">
+        <using kind="Bow"/>
+      </sub>
+   </for>
+</skill>
+
+<skill id="8103" levels="1" name="Dark Avenger">
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="BUFF"/>
+  <set name="operateType" val="OP_PASSIVE"/>
+  <set name="castRange" val="-1"/>
+  <set name="effectRange" val="-1"/>
+  <for>
+      <add order="0x40" stat="accCombat" val="15"/>
+	  <sub order="0x40" stat="pAtk" val="1737">
+        <using kind="Bow"/>
+      </sub>
+  </for>
+</skill>
+
+<skill id="8104" levels="1" name="Treasure Hunter">
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="BUFF"/>
+  <set name="operateType" val="OP_PASSIVE"/>
+  <set name="castRange" val="-1"/>
+  <set name="effectRange" val="-1"/>
+  <for>
+	  <mul order="0x30" stat="bowWpnVuln" val="0.8"/>
+  </for>
+</skill>
+
+<skill id="8105" levels="1" name="Hawkeye">
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="BUFF"/>
+  <set name="operateType" val="OP_PASSIVE"/>
+  <set name="castRange" val="-1"/>
+  <set name="effectRange" val="-1"/>
+  <for>
+      <mul val='0.810' order='0x30' stat='cAtk'/>
+      <add order="0x40" stat="accCombat" val="15"/>
+      <add order="0x30" stat="pAtkRange" val="80"/>
+      <mul order="0x30" stat="bowWpnVuln" val="0.8"/>
+  </for>
+</skill>
+
+<skill id="8106" levels="1" name="Sorcerer">
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="BUFF"/>
+  <set name="operateType" val="OP_PASSIVE"/>
+  <set name="castRange" val="-1"/>
+  <set name="effectRange" val="-1"/>
+  <for>
+	  <mul order="0x30" stat="bowWpnVuln" val="0.8"/>
+  </for>
+</skill>
+
+<skill id="8107" levels="1" name="Necromancer">
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="BUFF"/>
+  <set name="operateType" val="OP_PASSIVE"/>
+  <set name="castRange" val="-1"/>
+  <set name="effectRange" val="-1"/>
+  <for>
+	  <mul order="0x30" stat="bowWpnVuln" val="0.8"/>
+  </for>
+</skill>
+
+<skill id="8108" levels="1" name="Warlock">
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="BUFF"/>
+  <set name="operateType" val="OP_PASSIVE"/>
+  <set name="castRange" val="-1"/>
+  <set name="effectRange" val="-1"/>
+   <for>
+	  <mul order="0x30" stat="bowWpnVuln" val="0.8"/>
+  </for>
+</skill>
+
+<skill id="8109" levels="1" name="Bishop">
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="BUFF"/>
+  <set name="operateType" val="OP_PASSIVE"/>
+  <set name="castRange" val="-1"/>
+  <set name="effectRange" val="-1"/>
+  <for>
+      <mul order="0x30" stat="bowWpnVuln" val="0.8"/>
+  </for>
+</skill>
+
+<skill id="8110" levels="1" name="Prophet">
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="BUFF"/>
+  <set name="operateType" val="OP_PASSIVE"/>
+  <set name="castRange" val="-1"/>
+  <set name="effectRange" val="-1"/>
+  <for>
+    <add order="0x40" stat="accCombat" val="15"/>
+	<mul order="0x30" stat="bowWpnVuln" val="0.8"/>
+  </for>
+</skill>
+
+<skill id="8111" levels="1" name="Temple Knight">
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="BUFF"/>
+  <set name="operateType" val="OP_PASSIVE"/>
+  <set name="castRange" val="-1"/>
+  <set name="effectRange" val="-1"/>
+  <for>
+      <add order="0x40" stat="accCombat" val="15"/>
+	  <sub order="0x40" stat="pAtk" val="1737">
+        <using kind="Bow"/>
+      </sub>
+  </for>
+</skill>
+
+<skill id="8112" levels="1" name="SwordSinger">
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="BUFF"/>
+  <set name="operateType" val="OP_PASSIVE"/>
+  <set name="castRange" val="-1"/>
+  <set name="effectRange" val="-1"/>
+  <for>
+      <add order="0x40" stat="accCombat" val="15"/>
+	  <mul order="0x30" stat="bowWpnVuln" val="0.8"/>
+  </for>
+</skill>
+
+<skill id="8113" levels="1" name="PlainsWalker">
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="BUFF"/>
+  <set name="operateType" val="OP_PASSIVE"/>
+  <set name="castRange" val="-1"/>
+  <set name="effectRange" val="-1"/>
+  <for>
+      <add order="0x40" stat="accCombat" val="15"/>
+      <mul order="0x30" stat="bowWpnVuln" val="0.8"/>
+  </for>
+</skill>
+
+<skill id="8114" levels="1" name="Silver Ranger">
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="BUFF"/>
+  <set name="operateType" val="OP_PASSIVE"/>
+  <set name="castRange" val="-1"/>
+  <set name="effectRange" val="-1"/>
+  <for>
+      <mul val='0.660' order='0x30' stat='cAtk'/>
+      <add order="0x40" stat="accCombat" val="15"/>
+      <mul order="0x30" stat="bowWpnVuln" val="0.708"/>
+      <add order="0x30" stat="pAtkRange" val="80"/>
+  </for>
+</skill>
+
+<skill id="8115" levels="1" name="Spellsinger">
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="BUFF"/>
+  <set name="operateType" val="OP_PASSIVE"/>
+  <set name="castRange" val="-1"/>
+  <set name="effectRange" val="-1"/>
+  <for>
+      <mul order="0x30" stat="bowWpnVuln" val="0.8"/>
+  </for>
+</skill>
+
+<skill id="8116" levels="1" name="Elem. Summoner">
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="BUFF"/>
+  <set name="operateType" val="OP_PASSIVE"/>
+  <set name="castRange" val="-1"/>
+  <set name="effectRange" val="-1"/>
+  <for>
+	  <mul order="0x30" stat="bowWpnVuln" val="0.8"/>
+  </for>
+</skill>
+
+<skill id="8117" levels="1" name="Elven Elder">
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="BUFF"/>
+  <set name="operateType" val="OP_PASSIVE"/>
+  <set name="castRange" val="-1"/>
+  <set name="effectRange" val="-1"/>
+  <for>
+	  <mul order="0x30" stat="bowWpnVuln" val="0.8"/>
+  </for>
+</skill>
+
+<skill id="8118" levels="1" name="Shillien Knight">
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="BUFF"/>
+  <set name="operateType" val="OP_PASSIVE"/>
+  <set name="castRange" val="-1"/>
+  <set name="effectRange" val="-1"/>
+  <for>
+      <add order="0x40" stat="accCombat" val="15"/>
+	<sub order="0x40" stat="pAtk" val="1737">
+	<using kind="Bow"/>
+	</sub>
+  </for>
+</skill>
+
+<skill id="8119" levels="1" name="BladeDancer">
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="BUFF"/>
+  <set name="operateType" val="OP_PASSIVE"/>
+  <set name="castRange" val="-1"/>
+  <set name="effectRange" val="-1"/>
+  <for>
+      <add order="0x40" stat="accCombat" val="15"/>
+  </for>
+</skill>
+
+<skill id="8120" levels="1" name="Abyss Walker">
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="BUFF"/>
+  <set name="operateType" val="OP_PASSIVE"/>
+  <set name="castRange" val="-1"/>
+  <set name="effectRange" val="-1"/>
+  <for>
+	  <mul order="0x30" stat="bowWpnVuln" val="0.8"/>
+  </for>
+</skill>
+
+<skill id="8121" levels="1" name="P. Ranger">
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="BUFF"/>
+  <set name="operateType" val="OP_PASSIVE"/>
+  <set name="castRange" val="-1"/>
+  <set name="effectRange" val="-1"/>
+  <for>
+    <mul val='0.8' order='0x30' stat='cAtk'/>
+    <add order="0x40" stat="accCombat" val="15"/>
+	<add order="0x30" stat="pAtkRange" val="60"/>
+	<mul order="0x30" stat="bowWpnVuln" val="0.8987"/>
+  </for>
+</skill>
+
+<skill id="8122" levels="1" name="Spellhowler">
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="BUFF"/>
+  <set name="operateType" val="OP_PASSIVE"/>
+  <set name="castRange" val="-1"/>
+  <set name="effectRange" val="-1"/>
+  <for>
+	  <mul order="0x30" stat="bowWpnVuln" val="0.8"/>
+  </for>
+</skill>
+
+<skill id="8123" levels="1" name="P. Summoner">
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="BUFF"/>
+  <set name="operateType" val="OP_PASSIVE"/>
+  <set name="castRange" val="-1"/>
+  <set name="effectRange" val="-1"/>
+  <for>
+	   <mul order="0x30" stat="bowWpnVuln" val="0.8"/>
+  </for>
+</skill>
+
+<skill id="8124" levels="1" name="Shillien Elder">
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="BUFF"/>
+  <set name="operateType" val="OP_PASSIVE"/>
+  <set name="castRange" val="-1"/>
+  <set name="effectRange" val="-1"/>
+  <for>
+      <mul order="0x30" stat="bowWpnVuln" val="0.8"/>
+  </for>
+</skill>
+
+<skill id="8125" levels="1" name="Destroyer">
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="BUFF"/>
+  <set name="operateType" val="OP_PASSIVE"/>
+  <set name="castRange" val="-1"/>
+  <set name="effectRange" val="-1"/>
+  <for>
+      <add order="0x40" stat="accCombat" val="5"/>
+	  <mul order="0x30" stat="bowWpnVuln" val="0.8"/>
+  </for>
+</skill>
+
+<skill id="8126" levels="1" name="Tyrant">
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="BUFF"/>
+  <set name="operateType" val="OP_PASSIVE"/>
+  <set name="castRange" val="-1"/>
+  <set name="effectRange" val="-1"/>
+  <for>
+      <add order="0x40" stat="accCombat" val="5"/>
+	  <mul order="0x30" stat="pvpPhysSkillsDmg" val="1.3"/>
+	  <mul val='0.8' order='0x30' stat='maxHp'/>
+	  <mul order="0x30" stat="bowWpnVuln" val="0.8"/>
+  </for>
+</skill>
+
+<skill id="8127" levels="1" name="Overlord">
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="BUFF"/>
+  <set name="operateType" val="OP_PASSIVE"/>
+  <set name="castRange" val="-1"/>
+  <set name="effectRange" val="-1"/>
+  <for>
+      <add order="0x40" stat="accCombat" val="15"/>
+  	  <mul val='0.9' order='0x30' stat='maxHp'/>
+	  <mul order="0x30" stat="bowWpnVuln" val="1.087"/>
+  </for>
+</skill>
+
+<skill id="8128" levels="1" name="Warcryer">
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="BUFF"/>
+  <set name="operateType" val="OP_PASSIVE"/>
+  <set name="castRange" val="-1"/>
+  <set name="effectRange" val="-1"/>
+  <for>
+      <add order="0x40" stat="accCombat" val="15"/>
+	  <mul order="0x30" stat="bowWpnVuln" val="0.8"/>
+  </for>
+</skill>
+
+<skill id="8130" levels="1" name="Bounty Hunter">
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="BUFF"/>
+  <set name="operateType" val="OP_PASSIVE"/>
+  <set name="castRange" val="-1"/>
+  <set name="effectRange" val="-1"/>
+  <for>
+      <add order="0x40" stat="accCombat" val="15"/>
+	  <mul order="0x30" stat="bowWpnVuln" val="0.8"/>
+  </for>
+</skill>
+</list>

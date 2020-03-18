@@ -1,0 +1,34 @@
+10
+
+dir
+1118
+http://subversion.assembla.com/svn/L2jFrozenInterlude/trunk/gameserver/data
+http://subversion.assembla.com/svn/L2jFrozenInterlude
+
+
+
+2011-09-28T22:39:54.081582Z
+889
+Shyla
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+5215a6b0-ad85-4b3a-91a5-8dbf2feb3788
+
+geodata
+dir
+
+pathnode
+dir
+

@@ -1,0 +1,282 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!-- adventure guildsman - use life crystals (Rune) -->
+<list>
+
+ <item id="1">
+   <production id="6576" count="1"/>
+  </item>
+  
+  <item id="2">
+   <production id="6575" count="1"/>
+  </item>
+  
+  <item id="3">
+   <production id="6574" count="1"/>
+  </item>
+  
+  <item id="4">
+   <production id="6573" count="1"/>
+  </item>
+  
+  <item id="5">
+   <production id="6572" count="1"/>
+  </item>
+  
+  <item id="6">
+   <production id="6571" count="1"/>
+  </item>
+  
+  <item id="7">
+   <production id="6570" count="1"/>
+  </item>
+  
+  <item id="8">
+   <production id="6569" count="1"/>
+  </item>
+  
+  <item id="9">
+   <production id="6578" count="1"/>
+  </item>
+  
+  <item id="10">
+   <production id="6577" count="1"/>
+  </item>
+  
+  <item id="11">
+   <production id="4042" count="1"/>
+  </item>
+  
+  <item id="60">
+   <production id="8762" count="1"/>
+  </item>
+  
+    <item id="12">
+   <production id="9900" count="1"/>
+  </item>
+    <item id="13">
+   <production id="9901" count="1"/>
+  </item>
+    <item id="14">
+   <production id="9902" count="1"/>
+  </item>
+    <item id="15">
+   <production id="9903" count="1"/>
+  </item>
+    <item id="16">
+   <production id="9904" count="1"/>
+  </item>
+      <item id="17">
+   <production id="9905" count="1"/>
+  </item>
+      <item id="18">
+   <production id="9906" count="1"/>
+  </item>
+  
+       <item id="61">
+   <production id="9907" count="1"/>
+  </item>
+  
+       <item id="62">
+   <production id="9908" count="1"/>
+  </item>
+  
+    <item id="63">
+   <production id="6622" count="1"/>
+   </item>
+  
+	<item id="19">
+	<production id="57" count="2000000000"/>
+	</item>
+	
+	<item id="20">
+	<production id="5575" count="2000000000"/>
+	</item>
+	
+	
+	<item id="21">
+
+<production id="9801" count="1"/>
+</item>
+
+<item id="22">
+<production id="9802" count="1"/>
+</item>
+
+<item id="23">
+<production id="9803" count="1"/>
+</item>
+
+<!-- Dynasty Ancient Sword -->
+
+<item id="24">
+<production id="9805" count="1"/>
+</item>
+
+<item id="25">
+<production id="9806" count="1"/>
+</item>
+
+<item id="26">
+<production id="9807" count="1"/>
+</item>
+
+<!-- Dynasty Blade -->
+  
+  
+<item id="27">
+<production id="9809" count="1"/>
+  </item>
+
+<item id="28">
+<production id="9810" count="1"/>
+  </item>
+
+<item id="29">
+<production id="9811" count="1"/>
+  </item>
+
+<!-- Dynasty Two Handed Sword -->
+
+  
+<item id="30">
+<production id="9813" count="1"/>
+  </item>
+
+<item id="31">
+<production id="9814" count="1"/>
+  </item>
+
+<item id="32">
+<production id="9815" count="1"/>
+  </item>
+
+<!-- Dynasty Magic Sword -->
+  
+<item id="33">
+<production id="9817" count="1"/>
+  </item>
+
+<item id="34">
+<production id="9818" count="1"/>
+  </item>
+
+
+<item id="35">
+<production id="9819" count="1"/>
+  </item>
+
+<!-- Dynasty Bow -->
+ 
+<item id="36">
+<production id="9821" count="1"/>
+  </item>
+
+<item id="37">
+<production id="9822" count="1"/>
+  </item>
+
+<item id="38">
+<production id="9823" count="1"/>
+  </item>
+  
+<!-- Dynasty Dagger -->
+
+
+<item id="39">
+<production id="9825" count="1"/>
+  </item>
+
+<item id="40">
+<production id="9826" count="1"/>
+  </item>
+
+
+<item id="41">
+<production id="9827" count="1"/>
+  </item>
+
+<!-- Dynasty Spear -->
+
+<item id="42">
+<production id="9829" count="1"/>
+  </item>
+
+<item id="43">
+<production id="9830" count="1"/>
+  </item>
+
+<item id="44">
+<production id="9831" count="1"/>
+  </item>
+
+<!-- Dynasty Hammer -->
+
+<item id="45">
+<production id="9833" count="1"/>
+  </item>
+
+<item id="46">
+<production id="9834" count="1"/>
+  </item>
+
+<item id="47">
+<production id="9835" count="1"/>
+  </item>
+
+<!-- Dynasty Staff -->
+
+<item id="48">
+<production id="9837" count="1"/>
+  </item>
+
+<item id="49">
+<production id="9838" count="1"/>
+  </item>
+
+<item id="50">
+<production id="9839" count="1"/>
+  </item>
+
+<!-- Dynasty Fist -->
+
+<item id="51">
+<production id="9841" count="1"/>
+  </item>
+
+<item id="52">
+<production id="9842" count="1"/>
+  </item>
+
+<item id="53">
+<production id="9843" count="1"/>
+  </item>
+
+<!-- Dynasty Crusher -->
+
+<item id="54">
+<production id="9847" count="1"/>
+  </item>
+
+<item id="55">
+<production id="9848" count="1"/>
+  </item>
+
+<item id="56">
+<production id="9849" count="1"/>
+  </item>
+
+<!-- Dynasty Two Handed Staff -->
+
+<item id="57">
+<production id="9851" count="1"/>
+  </item>
+
+<item id="58">
+<production id="9852" count="1"/>
+  </item>
+
+<item id="59">
+<production id="9853" count="1"/>
+</item>
+
+</list>

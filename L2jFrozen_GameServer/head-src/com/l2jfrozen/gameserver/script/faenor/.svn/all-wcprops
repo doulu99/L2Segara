@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/script/faenor
+END
+FaenorQuestParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/script/faenor/FaenorQuestParser.java
+END
+FaenorParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/script/faenor/FaenorParser.java
+END
+FaenorScriptEngine.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/script/faenor/FaenorScriptEngine.java
+END
+FaenorWorldDataParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/script/faenor/FaenorWorldDataParser.java
+END
+FaenorEventParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/script/faenor/FaenorEventParser.java
+END
+FaenorInterface.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/gameserver/script/faenor/FaenorInterface.java
+END

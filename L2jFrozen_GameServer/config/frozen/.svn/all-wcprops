@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/config/frozen
+END
+frozen.properties
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/config/frozen/frozen.properties
+END
+irc.properties
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/L2jFrozenInterlude/!svn/ver/854/trunk/gameserver/config/frozen/irc.properties
+END
+dm.properties
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/config/frozen/dm.properties
+END
+ctf.properties
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/config/frozen/ctf.properties
+END
+tw.properties
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/L2jFrozenInterlude/!svn/ver/953/trunk/gameserver/config/frozen/tw.properties
+END
+eventmanager.properties
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/L2jFrozenInterlude/!svn/ver/951/trunk/gameserver/config/frozen/eventmanager.properties
+END
+tvt.properties
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/L2jFrozenInterlude/!svn/ver/1072/trunk/gameserver/config/frozen/tvt.properties
+END

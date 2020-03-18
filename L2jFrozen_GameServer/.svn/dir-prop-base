@@ -1,0 +1,11 @@
+K 10
+svn:ignore
+V 6
+build
+
+K 13
+svn:mergeinfo
+V 79
+/branches/Beta/gameserver:1008-1116
+/branches/UsersCommits/gameserver:1006-1007
+END

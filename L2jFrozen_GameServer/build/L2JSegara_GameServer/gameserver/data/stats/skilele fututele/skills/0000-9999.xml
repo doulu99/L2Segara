@@ -1,0 +1,460 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<!-- BALANCE RESSIST BUFF BY: DEVELOPER LUNA -->
+
+<list>
+
+	<!-- buff ressist skill list -->
+	<skill id="1182" levels="3" name="Resist Aqua" enchantLevels1="30" enchantLevels2="30">
+	<table name="#enchantMagicLvl">76 76 76 77 77 77 78 78 78 79 79 79 80 80 80 81 81 81 82 82 82 82 83 83 83 84 84
+	85 85 85
+	</table>
+	<enchant1 name="magicLvl" val="#enchantMagicLvl"/>
+	<enchant2 name="magicLvl" val="#enchantMagicLvl"/>
+	<table name="#ench1time">
+	1240 1280 1320 1360 1400 1440 1480 1520 1560 1600
+	1640 1680 1720 1760 1800 1840 1880 1920 1960 2000
+	2040 2080 2120 2160 2200 2240 2280 2320 2360 2400
+	</table>
+	<table name="#ench2MpConsume">30 29 29 28 28 27 27 26 26 25 25 24 24 23 23 22 22 21 21 20 20 19 19 18 18 17 17
+	16 16 15
+	</table>
+	<table name="#ench2MpConsume_Init">7 7 7 7 7 7 7 6 6 6 6 6 6 6 6 5 5 5 5 5 5 5 4 4 4 4 4 4 4 4</table>
+	<table name="#mpConsume_Init">5 7 8</table>
+	<table name="#mpConsume">18 28 31</table>
+	<table name="#vuln">0.85 0.77 0.8</table>
+	<table name="#aggro">243 379 418</table>
+	<set name="mpInitialConsume" val="#mpConsume_Init"/>
+	<set name="mpConsume" val="#mpConsume"/>
+	<set name="target" val="TARGET_ONE"/>
+	<set name="reuseDelay" val="6000"/>
+	<set name="hitTime" val="4000"/>
+	<set name="skillType" val="BUFF"/>
+	<set name="isMagic" val="true"/>
+	<set name="operateType" val="OP_ACTIVE"/>
+	<set name="castRange" val="400"/>
+	<set name="effectRange" val="900"/>
+	<set name="aggroPoints" val="#aggro"/>
+	<enchant2 name="mpConsume" val="#ench2MpConsume"/>
+	<enchant2 name="mpInitialConsume" val="#ench2MpConsume_Init"/>
+	<for>
+	<effect count="1" name="Buff" time="1200" val="0" stackOrder="1" stackType="AquaAtr">
+	<mul order="0x30" stat="waterVuln" val="#vuln"/>
+	</effect>
+	</for>
+	<enchant1for>
+	<effect count="1" name="Buff" time="#ench1time" val="0" stackOrder="1" stackType="AquaAtr">
+	<mul order="0x30" stat="waterVuln" val="0.8"/>
+	</effect>
+	</enchant1for>
+	</skill>
+
+
+	<skill id="1189" levels="3" name="Resist Wind" enchantLevels1="30" enchantLevels2="30">
+	<table name="#enchantMagicLvl">76 76 76 77 77 77 78 78 78 79 79 79 80 80 80 81 81 81 82 82 82 82 83 83 83 84 84
+	85 85 85
+	</table>
+	<enchant1 name="magicLvl" val="#enchantMagicLvl"/>
+	<enchant2 name="magicLvl" val="#enchantMagicLvl"/>
+	<table name="#ench1time">
+	1240 1280 1320 1360 1400 1440 1480 1520 1560 1600
+	1640 1680 1720 1760 1800 1840 1880 1920 1960 2000
+	2040 2080 2120 2160 2200 2240 2280 2320 2360 2400
+	</table>
+	<table name="#ench2MpConsume">30 29 29 28 28 27 27 26 26 25 25 24 24 23 23 22 22 21 21 20 20 19 19 18 18 17 17
+	16 16 15
+	</table>
+	<table name="#ench2MpConsume_Init">7 7 7 7 7 7 7 6 6 6 6 6 6 6 6 5 5 5 5 5 5 5 4 4 4 4 4 4 4 4</table>
+	<table name="#mpConsume_Init">6 7 8</table>
+	<table name="#mpConsume">24 28 31</table>
+	<table name="#vuln">0.85 0.77 0.7</table>
+	<table name="#aggro">331 379 418</table>
+	<set name="mpInitialConsume" val="#mpConsume_Init"/>
+	<set name="mpConsume" val="#mpConsume"/>
+	<set name="target" val="TARGET_ONE"/>
+	<set name="reuseDelay" val="6000"/>
+	<set name="hitTime" val="4000"/>
+	<set name="skillType" val="BUFF"/>
+	<set name="isMagic" val="true"/>
+	<set name="operateType" val="OP_ACTIVE"/>
+	<set name="castRange" val="400"/>
+	<set name="effectRange" val="900"/>
+	<set name="aggroPoints" val="#aggro"/>
+	<enchant2 name="mpConsume" val="#ench2MpConsume"/>
+	<enchant2 name="mpInitialConsume" val="#ench2MpConsume_Init"/>
+	<for>
+	<effect count="1" name="Buff" time="1200" val="0" stackOrder="1" stackType="WindAtr">
+	<mul order="0x30" stat="windVuln" val="#vuln"/>
+	</effect>
+	</for>
+	<enchant1for>
+	<effect count="1" name="Buff" time="#ench1time" val="0" stackOrder="1" stackType="WindAtr">
+	<mul order="0x30" stat="windVuln" val="0.7"/>
+	</effect>
+	</enchant1for>
+	</skill>
+
+	<skill id="1191" levels="3" name="Resist Fire" enchantLevels1="30" enchantLevels2="30">
+	<table name="#ench1time">
+	1240 1280 1320 1360 1400 1440 1480 1520 1560 1600
+	1640 1680 1720 1760 1800 1840 1880 1920 1960 2000
+	2040 2080 2120 2160 2200 2240 2280 2320 2360 2400
+	</table>
+	<table name="#ench2MpConsume">30 29 29 28 28 27 27 26 26 25 25 24 24 23 23 22 22 21 21 20 20 19 19 18 18 17 17
+	16 16 15
+	</table>
+	<table name="#ench2MpConsume_Init">7 7 7 7 7 7 7 6 6 6 6 6 6 6 6 5 5 5 5 5 5 5 4 4 4 4 4 4 4 4</table>
+	<table name="#mpConsume_Init">6 7 8</table>
+	<table name="#mpConsume">21 28 31</table>
+	<table name="#vuln">0.85 0.77 0.835</table>
+	<table name="#aggro">285 379 418</table>
+	<set name="mpInitialConsume" val="#mpConsume_Init"/>
+	<set name="mpConsume" val="#mpConsume"/>
+	<set name="target" val="TARGET_ONE"/>
+	<set name="reuseDelay" val="6000"/>
+	<set name="hitTime" val="4000"/>
+	<set name="skillType" val="BUFF"/>
+	<set name="isMagic" val="true"/>
+	<set name="operateType" val="OP_ACTIVE"/>
+	<set name="castRange" val="400"/>
+	<set name="effectRange" val="900"/>
+	<set name="aggroPoints" val="#aggro"/>
+	<enchant2 name="mpConsume" val="#ench2MpConsume"/>
+	<enchant2 name="mpInitialConsume" val="#ench2MpConsume_Init"/>
+	<for>
+	<effect count="1" name="Buff" time="1200" val="0" stackOrder="1" stackType="FireAtr">
+	<mul order="0x30" stat="fireVuln" val="#vuln"/>
+	</effect>
+	</for>
+	<enchant1for>
+	<effect count="1" name="Buff" time="#ench1time" val="0" stackOrder="1" stackType="FireAtr">
+	<mul order="0x30" stat="fireVuln" val="0.835"/>
+	</effect>
+	</enchant1for>
+	</skill>
+
+	<skill id="1033" levels="3" name="Resist Poison" enchantLevels1="30" enchantLevels2="30">
+	<table name="#enchantMagicLvl">76 76 76 77 77 77 78 78 78 79 79 79 80 80 80 81 81 81 82 82 82 82 83 83 83 84 84
+	85 85 85
+	</table>
+	<enchant1 name="magicLvl" val="#enchantMagicLvl"/>
+	<enchant2 name="magicLvl" val="#enchantMagicLvl"/>
+	<table name="#ench1time">
+	1240 1280 1320 1360 1400 1440 1480 1520 1560 1600
+	1640 1680 1720 1760 1800 1840 1880 1920 1960 2000
+	2040 2080 2120 2160 2200 2240 2280 2320 2360 2400
+	</table>
+	<table name="#ench2MpConsume">30 29 29 28 28 27 27 26 26 25 25 24 24 23 23 22 22 21 21 20 20 19 19 18 18 17 17
+	16 16 15
+	</table>
+	<table name="#ench2MpConsume_Init">7 7 7 7 7 7 7 6 6 6 6 6 6 6 6 5 5 5 5 5 5 5 4 4 4 4 4 4 4 4</table>
+	<table name="#mpConsume_Init">6 7 8</table>
+	<table name="#mpConsume">24 28 31</table>
+	<table name="#vuln">0.7 0.6 0.5</table>
+	<table name="#aggro">331 379 418</table>
+	<set name="mpInitialConsume" val="#mpConsume_Init"/>
+	<set name="mpConsume" val="#mpConsume"/>
+	<set name="target" val="TARGET_ONE"/>
+	<set name="reuseDelay" val="6000"/>
+	<set name="hitTime" val="4000"/>
+	<set name="skillType" val="BUFF"/>
+	<set name="isMagic" val="true"/>
+	<set name="operateType" val="OP_ACTIVE"/>
+	<set name="castRange" val="400"/>
+	<set name="effectRange" val="900"/>
+	<set name="aggroPoints" val="#aggro"/>
+	<enchant2 name="mpConsume" val="#ench2MpConsume"/>
+	<enchant2 name="mpInitialConsume" val="#ench2MpConsume_Init"/>
+	<for>
+	<effect count="1" name="Buff" time="1200" val="0">
+	<mul order="0x30" stat="poisonVuln" val="#vuln"/>
+	</effect>
+	</for>
+	<enchant1for>
+	<effect count="1" name="Buff" time="#ench1time" val="0">
+	<mul order="0x30" stat="poisonVuln" val="0.5"/>
+	</effect>
+	</enchant1for>
+	</skill>
+
+	<skill id="1393" levels="3" name="Unholy Resistance">
+	<table name="#mpConsume">54 62 69</table>
+	<table name="#darkVuln">0.85 0.77 0.712</table>
+	<set name="mpConsume" val="#mpConsume"/>
+	<set name="reuseDelay" val="10000"/>
+	<set name="hitTime" val="4000"/>
+	<set name="target" val="TARGET_ONE"/>
+	<set name="skillType" val="BUFF"/>
+	<set name="operateType" val="OP_ACTIVE"/>
+	<set name="castRange" val="400"/>
+	<set name="effectRange" val="900"/>
+	<set name="isMagic" val="true"/>
+	<for>
+	<effect count="1" name="Buff" time="1200" val="0">
+	<mul order="0x30" stat="darkVuln" val="#darkVuln"/>
+	</effect>
+	</for>
+	</skill>
+
+	<skill id="1392" levels="3" name="Holy Resistance">
+	<table name="#mpConsume">54 62 69</table>
+	<!-- L2P still need to confirm res values -->
+	<table name="#holyVuln">0.85 0.77 0.791</table>
+	<set name="mpConsume" val="#mpConsume"/>
+	<set name="reuseDelay" val="10000"/>
+	<set name="hitTime" val="4000"/>
+	<set name="target" val="TARGET_ONE"/>
+	<set name="skillType" val="BUFF"/>
+	<set name="operateType" val="OP_ACTIVE"/>
+	<set name="castRange" val="400"/>
+	<set name="effectRange" val="900"/>
+	<set name="isMagic" val="true"/>
+	<for>
+	<effect count="1" name="Buff" time="1200" val="0">
+	<mul order="0x30" stat="holyVuln" val="#holyVuln"/>
+	</effect>
+	</for>
+	</skill>
+
+	<skill id="1352" levels="1" name="Elemental Protection">
+	<set name="mpInitialConsume" val="14"/>
+	<set name="mpConsume" val="56"/>
+	<set name="target" val="TARGET_ONE"/>
+	<set name="reuseDelay" val="10000"/>
+	<set name="hitTime" val="4000"/>
+	<set name="skillType" val="BUFF"/>
+	<set name="isMagic" val="true"/>
+	<set name="operateType" val="OP_ACTIVE"/>
+	<set name="castRange" val="400"/>
+	<set name="effectRange" val="900"/>
+	<set name="aggroPoints" val="662"/>
+	<for>
+	<effect count="1" name="Buff" time="1200" val="0">
+	<mul order="0x30" stat="waterVuln" val="0.846"/>
+	<mul order="0x30" stat="fireVuln" val="0.917"/>
+	<mul order="0x30" stat="windVuln" val="0.8"/>
+	<mul order="0x30" stat="earthVuln" val="0.8"/>
+	</effect>
+	</for>
+	</skill>
+
+	<skill id="1353" levels="1" name="Divine Protection">
+	<set name="mpInitialConsume" val="14"/>
+	<set name="mpConsume" val="56"/>
+	<set name="target" val="TARGET_ONE"/>
+	<set name="reuseDelay" val="10000"/>
+	<set name="hitTime" val="4000"/>
+	<set name="skillType" val="BUFF"/>
+	<set name="operateType" val="OP_ACTIVE"/>
+	<set name="castRange" val="400"/>
+	<set name="effectRange" val="900"/>
+	<set name="aggroPoints" val="666"/>
+	<set name="isMagic" val="true"/>
+	<for>
+	<effect count="1" name="Buff" time="1200" val="0">
+	<mul order="0x30" stat="darkVuln" val="0.9"/>
+	<mul order="0x30" stat="holyVuln" val="0.791"/>
+	</effect>
+	</for>
+	</skill>
+
+	<!-- dance song ressist list -->
+
+
+	<skill id="270" levels="1" name="Song of Invocation" enchantLevels1="30" enchantLevels2="30">
+	<table name="#enchantMagicLvl">76 76 76 77 77 77 78 78 78 79 79 79 80 80 80 81 81 81 82 82 82 82 83 83 83 84 84
+	85 85 85
+	</table>
+	<enchant1 name="magicLvl" val="#enchantMagicLvl"/>
+	<enchant2 name="magicLvl" val="#enchantMagicLvl"/>
+	<table name="#ench1time">125 131 136 142 147 153 158 164 169 175 180 186 191 197 202 208 213 219 224 230 235 241
+	246 252 257 263 268 274 279 285
+	</table>
+	<table name="#ench2MpConsume">58 57 56 55 53 52 51 50 48 47 46 45 43 42 41 40 39 37 36 35 34 32 31 30 29 27 26
+	25 24 22
+	</table>
+	<set name="mpConsume" val="60"/>
+	<set name="nextDanceCost" val="30"/>
+	<set name="target" val="TARGET_PARTY"/>
+	<set name="skillRadius" val="1000"/>
+	<set name="reuseDelay" val="10000"/>
+	<set name="hitTime" val="2500"/>
+	<set name="skillType" val="BUFF"/>
+	<set name="isDance" val="true"/>
+	<set name="operateType" val="OP_ACTIVE"/>
+	<set name="castRange" val="-1"/>
+	<set name="effectRange" val="-1"/>
+	<set name="aggroPoints" val="408"/>
+	<enchant1 name="aggroPoints" val="655"/>
+	<enchant2 name="aggroPoints" val="655"/>
+	<enchant2 name="mpConsume" val="#ench2MpConsume"/>
+	<for>
+	<effect count="1" name="Buff" time="120" val="0">
+	<mul order="0x30" stat="darkVuln" val="0.897"/>
+	</effect>
+	</for>
+	<enchant1for>
+	<effect count="1" name="Buff" time="#ench1time" val="0">
+	<mul order="0x30" stat="darkVuln" val="0.900"/>
+	</effect>
+	</enchant1for>
+	</skill>
+
+
+	<skill id="306" levels="1" name="Song of Flame Guard" enchantLevels1="30" enchantLevels2="30">
+	<table name="#enchantMagicLvl">76 76 76 77 77 77 78 78 78 79 79 79 80 80 80 81 81 81 82 82 82 82 83 83 83 84 84
+	85 85 85
+	</table>
+	<enchant1 name="magicLvl" val="#enchantMagicLvl"/>
+	<enchant2 name="magicLvl" val="#enchantMagicLvl"/>
+	<table name="#ench1time">125 131 136 142 147 153 158 164 169 175 180 186 191 197 202 208 213 219 224 230 235 241
+	246 252 257 263 268 274 279 285
+	</table>
+	<table name="#ench2MpConsume">58 57 56 55 53 52 51 50 48 47 46 45 43 42 41 40 39 37 36 35 34 32 31 30 29 27 26
+	25 24 22
+	</table>
+	<set name="mpConsume" val="60"/>
+	<set name="nextDanceCost" val="30"/>
+	<set name="target" val="TARGET_PARTY"/>
+	<set name="skillRadius" val="1000"/>
+	<set name="reuseDelay" val="10000"/>
+	<set name="hitTime" val="2500"/>
+	<set name="skillType" val="BUFF"/>
+	<set name="isDance" val="true"/>
+	<set name="operateType" val="OP_ACTIVE"/>
+	<set name="aggroPoints" val="582"/>
+	<enchant1 name="aggroPoints" val="655"/>
+	<enchant2 name="aggroPoints" val="655"/>
+	<enchant2 name="mpConsume" val="#ench2MpConsume"/>
+	<for>
+	<effect name="Buff" time="120" count="1" val="0">
+	<mul order="0x30" stat="fireVuln" val="0.917"/>
+	</effect>
+	</for>
+	<enchant1for>
+	<effect name="Buff" time="#ench1time" count="1" val="0">
+	<mul order="0x30" stat="fireVuln" val="0.917"/>
+	</effect>
+	</enchant1for>
+	</skill>
+
+	<skill id="307" levels="1" name="Dance of Aqua Guard" enchantLevels1="30" enchantLevels2="30">
+	<table name="#enchantMagicLvl">76 76 76 77 77 77 78 78 78 79 79 79 80 80 80 81 81 81 82 82 82 82 83 83 83 84 84
+	85 85 85
+	</table>
+	<enchant1 name="magicLvl" val="#enchantMagicLvl"/>
+	<enchant2 name="magicLvl" val="#enchantMagicLvl"/>
+	<table name="#ench1time">125 131 136 142 147 153 158 164 169 175 180 186 191 197 202 208 213 219 224 230 235 241
+	246 252 257 263 268 274 279 285
+	</table>
+	<table name="#ench2MpConsume">58 57 56 55 53 52 51 50 48 47 46 45 43 42 41 40 39 37 36 35 34 32 31 30 29 27 26
+	25 24 22
+	</table>
+	<set name="weaponsAllowed" val="512"/>
+	<set name="mpConsume" val="60"/>
+	<set name="nextDanceCost" val="30"/>
+	<set name="target" val="TARGET_PARTY"/>
+	<set name="skillRadius" val="1000"/>
+	<set name="reuseDelay" val="10000"/>
+	<set name="hitTime" val="2500"/>
+	<set name="skillType" val="BUFF"/>
+	<set name="isDance" val="true"/>
+	<set name="operateType" val="OP_ACTIVE"/>
+	<set name="castRange" val="-1"/>
+	<set name="effectRange" val="-1"/>
+	<set name="aggroPoints" val="635"/>
+	<enchant1 name="aggroPoints" val="655"/>
+	<enchant2 name="aggroPoints" val="655"/>
+	<enchant2 name="mpConsume" val="#ench2MpConsume"/>
+	<for>
+	<effect name="Buff" time="120" count="1" val="0">
+	<mul order="0x30" stat="waterVuln" val="0.845"/>
+	</effect>
+	</for>
+	<enchant1for>
+	<effect name="Buff" time="#ench1time" count="1" val="0">
+	<mul order="0x30" stat="waterVuln" val="0.845"/>
+	</effect>
+	</enchant1for>
+	</skill>
+
+	<skill id="308" levels="1" name="Song of Storm Guard" enchantLevels1="30" enchantLevels2="30">
+	<table name="#enchantMagicLvl">76 76 76 77 77 77 78 78 78 79 79 79 80 80 80 81 81 81 82 82 82 82 83 83 83 84 84
+	85 85 85
+	</table>
+	<enchant1 name="magicLvl" val="#enchantMagicLvl"/>
+	<enchant2 name="magicLvl" val="#enchantMagicLvl"/>
+	<table name="#ench1time">125 131 136 142 147 153 158 164 169 175 180 186 191 197 202 208 213 219 224 230 235 241
+	246 252 257 263 268 274 279 285
+	</table>
+	<table name="#ench2MpConsume">58 57 56 55 53 52 51 50 48 47 46 45 43 42 41 40 39 37 36 35 34 32 31 30 29 27 26
+	25 24 22
+	</table>
+	<set name="mpConsume" val="60"/>
+	<set name="nextDanceCost" val="30"/>
+	<set name="target" val="TARGET_PARTY"/>
+	<set name="skillRadius" val="1000"/>
+	<set name="reuseDelay" val="10000"/>
+	<set name="hitTime" val="2500"/>
+	<set name="skillType" val="BUFF"/>
+	<set name="isDance" val="true"/>
+	<set name="operateType" val="OP_ACTIVE"/>
+	<set name="castRange" val="-1"/>
+	<set name="effectRange" val="-1"/>
+	<set name="aggroPoints" val="635"/>
+	<enchant1 name="aggroPoints" val="655"/>
+	<enchant2 name="aggroPoints" val="655"/>
+	<enchant2 name="mpConsume" val="#ench2MpConsume"/>
+	<for>
+	<effect name="Buff" time="120" count="1" val="0">
+	<mul order="0x30" stat="windVuln" val="0.779"/>
+	</effect>
+	</for>
+	<enchant1for>
+	<effect name="Buff" time="#ench1time" count="1" val="0">
+	<mul order="0x30" stat="windVuln" val="0.779"/>
+	</effect>
+	</enchant1for>
+	</skill>
+
+	<skill id="309" levels="1" name="Dance of Earth Guard" enchantLevels1="30" enchantLevels2="30">
+	<table name="#enchantMagicLvl">76 76 76 77 77 77 78 78 78 79 79 79 80 80 80 81 81 81 82 82 82 82 83 83 83 84 84
+	85 85 85
+	</table>
+	<enchant1 name="magicLvl" val="#enchantMagicLvl"/>
+	<enchant2 name="magicLvl" val="#enchantMagicLvl"/>
+	<table name="#ench1time">125 131 136 142 147 153 158 164 169 175 180 186 191 197 202 208 213 219 224 230 235 241
+	246 252 257 263 268 274 279 285
+	</table>
+	<table name="#ench2MpConsume">58 57 56 55 53 52 51 50 48 47 46 45 43 42 41 40 39 37 36 35 34 32 31 30 29 27 26
+	25 24 22
+	</table>
+	<set name="weaponsAllowed" val="512"/>
+	<set name="mpConsume" val="60"/>
+	<set name="nextDanceCost" val="30"/>
+	<set name="target" val="TARGET_PARTY"/>
+	<set name="skillRadius" val="1000"/>
+	<set name="reuseDelay" val="10000"/>
+	<set name="hitTime" val="2500"/>
+	<set name="skillType" val="BUFF"/>
+	<set name="isDance" val="true"/>
+	<set name="operateType" val="OP_ACTIVE"/>
+	<set name="castRange" val="-1"/>
+	<set name="effectRange" val="-1"/>
+	<set name="aggroPoints" val="582"/>
+	<enchant1 name="aggroPoints" val="655"/>
+	<enchant2 name="aggroPoints" val="655"/>
+	<enchant2 name="mpConsume" val="#ench2MpConsume"/>
+	<for>
+	<effect name="Buff" time="120" count="1" val="0">
+	<mul order="0x30" stat="earthVuln" val="0.7"/>
+	</effect>
+	</for>
+	<enchant1for>
+	<effect name="Buff" time="#ench1time" count="1" val="0">
+	<mul order="0x30" stat="earthVuln" val="0.7"/>
+	</effect>
+	</enchant1for>
+	</skill>
+
+</list>

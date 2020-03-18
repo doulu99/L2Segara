@@ -1,0 +1,113 @@
+<?xml version='1.0' encoding='utf-8'?>
+<list>
+<item id='9933' name="Dynasty BreastPlate">
+  <for>
+    <add val='250' order='0x10' stat='pDef'/>
+    <enchant val='0' order='0x0C' stat='pDef'/>
+  </for>
+</item>
+<item id='9934' name="Dynasty Gaiter">
+  <for>
+    <add val='156' order='0x10' stat='pDef'/>
+    <enchant val='0' order='0x0C' stat='pDef'/>
+  </for>
+</item>
+<item id='9935' name="Dynasty Helmet">
+  <for>
+    <add val='101' order='0x10' stat='pDef'/>
+    <enchant val='0' order='0x0C' stat='pDef'/>
+  </for>
+</item>
+<item id='9936' name="Dynasty Gauntlet - Heavy Armor">
+  <for>
+    <add val='68' order='0x10' stat='pDef'/>
+    <enchant val='0' order='0x0C' stat='pDef'/>
+  </for>
+</item>
+<item id='9937' name="Dynasty Boots - Heavy Armor">
+  <for>
+    <add val='68' order='0x10' stat='pDef'/>
+    <enchant val='0' order='0x0C' stat='pDef'/>
+  </for>
+</item>
+
+<item id='9938' name="Dynasty Leather Armor">
+  <for>
+    <add val='187' order='0x10' stat='pDef'/>
+    <enchant val='0' order='0x0C' stat='pDef'/>
+  </for>
+</item>
+<item id='9939' name="Dynasty Leather Leggings">
+  <for>
+    <add val='117' order='0x10' stat='pDef'/>
+    <enchant val='0' order='0x0C' stat='pDef'/>
+  </for>
+</item>
+<item id='9940' name="Dynasty Leather Helmet">
+  <for>
+    <add val='101' order='0x10' stat='pDef'/>
+    <enchant val='0' order='0x0C' stat='pDef'/>
+  </for>
+</item>
+<item id='9941' name="Dynasty Leather Gloves - Light Armor">
+  <for>
+    <add val='68' order='0x10' stat='pDef'/>
+    <enchant val='0' order='0x0C' stat='pDef'/>
+  </for>
+</item>
+<item id='9942' name="Dynasty Leather Boots - Light Armor">
+  <for>
+    <add val='68' order='0x10' stat='pDef'/>
+    <enchant val='0' order='0x0C' stat='pDef'/>
+  </for>
+</item>
+<item id='9943' name="Dynasty Tunic">
+  <for>
+    <add val='125' order='0x10' stat='pDef'/>
+    <enchant val='0' order='0x0C' stat='pDef'/>
+  </for>
+</item>
+<item id='9944' name="Dynasty Stockings">
+  <for>
+    <add val='78' order='0x10' stat='pDef'/>
+    <enchant val='0' order='0x0C' stat='pDef'/>
+  </for>
+</item>
+<item id='9945' name="Dynasty Circlet">
+  <for>
+    <add val='101' order='0x10' stat='pDef'/>
+    <enchant val='0' order='0x0C' stat='pDef'/>
+  </for>
+</item>
+<item id='9946' name="Dynasty Gloves - Robe">
+  <for>
+    <add val='68' order='0x10' stat='pDef'/>
+    <enchant val='0' order='0x0C' stat='pDef'/>
+  </for>
+</item>
+<item id='9947' name="Dynasty Shoes - Robe">
+  <for>
+    <add val='68' order='0x10' stat='pDef'/>
+    <enchant val='0' order='0x0C' stat='pDef'/>
+  </for>
+</item>
+
+<item id='9909' name="Dynasty - Neckless">
+  <for>
+    <add val='131' order='0x10' stat='mDef'/>
+    <enchant val='0' order='0x0C' stat='mDef'/>
+  </for>
+</item>
+<item id='9910' name="Dynasty - Earing">
+  <for>
+    <add val='98' order='0x10' stat='mDef'/>
+    <enchant val='0' order='0x0C' stat='mDef'/>
+  </for>
+</item>
+<item id='9911' name="Dynasty - Ring">
+  <for>
+    <add val='65' order='0x10' stat='mDef'/>
+    <enchant val='0' order='0x0C' stat='mDef'/>
+  </for>
+</item>
+</list>

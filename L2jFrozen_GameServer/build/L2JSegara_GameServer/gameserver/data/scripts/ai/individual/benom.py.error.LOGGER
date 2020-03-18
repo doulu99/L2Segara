@@ -1,0 +1,7 @@
+Error on: C:\Users\So0Hel\Desktop\server\gameserver\data\scripts\ai\individual\benom.py.error.LOGGER
+Line: -1 - Column: -1
+
+Traceback (innermost last):
+  File "benom.py", line 197, in ?
+  File "benom.py", line 69, in __init__
+AttributeError: 'NoneType' object has no attribute 'getOwnerId'

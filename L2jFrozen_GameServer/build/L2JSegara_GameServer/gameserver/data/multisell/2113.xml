@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<list maintainEnchantment="true" applyTaxes="true">
+
+<!-- Dynasty Rapier -->
+
+<item id="1">
+<ingredient id="9900" count="535"/>
+<ingredient id="57" count="2500000"/>
+<ingredient id="5575" count="15000000"/>
+<!-- S grade Jewels to Dynasty -->
+<ingredient id="920" count="1"/>
+<production id="9909" count="1"/>
+</item>
+
+<item id="2">
+<ingredient id="9900" count="253"/>
+<ingredient id="57" count="1500000"/>
+<ingredient id="5575" count="5000000"/>
+<!-- S grade Jewels to Dynasty -->
+<ingredient id="858" count="1"/>
+<production id="9910" count="1"/>
+</item>
+
+<item id="3">
+<ingredient id="9900" count="220"/>
+<ingredient id="57" count="500000"/>
+<ingredient id="5575" count="5000000"/>
+<!-- S grade Jewels to Dynasty -->
+<ingredient id="889" count="1"/>
+<production id="9911" count="1"/>
+</item>
+</list>

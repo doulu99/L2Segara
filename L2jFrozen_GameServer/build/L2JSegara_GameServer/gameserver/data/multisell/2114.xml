@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<list>
+
+<!-- Exchange mats -->
+
+  <!-- blue Seal Stones -->
+  <item id="1">
+    <ingredient id="6360" count="1"/>
+    <production id="5575" count="3"/>
+  </item>
+  
+  <!-- Green Seal Stones -->
+  <item id="2">
+    <ingredient id="6361" count="1"/>
+    <production id="5575" count="5"/>
+  </item>
+  
+  <!-- red Seal Stones -->
+  <item id="3">
+    <ingredient id="6362" count="1"/>
+    <production id="5575" count="10"/>
+  </item>
+
+    <!-- blue Seal Stones -->
+  <item id="4">
+    <ingredient id="6360" count="100"/>
+    <production id="5575" count="300"/>
+  </item>
+  
+  <!-- Green Seal Stones -->
+  <item id="5">
+    <ingredient id="6361" count="100"/>
+    <production id="5575" count="500"/>
+  </item>
+  
+  <!-- red Seal Stones -->
+  <item id="6">
+    <ingredient id="6362" count="100"/>
+    <production id="5575" count="1000"/>
+  </item>
+  
+  <!-- Exchange Weapon SA with no sa -->
+  
+    <item id="7">
+    <ingredient id="8788" count="1"/>
+    <production id="8678" count="1"/>
+	</item>
+  
+    <item id="8">
+    <ingredient id="6583" count="1"/>
+    <production id="6364" count="1"/>
+  </item>
+  
+  <!-- Exchange Dynasty mats -->
+  
+    <item id="9">
+    <ingredient id="9906" count="583"/>
+    <ingredient id="9907" count="298"/>
+    <production id="9908" count="1"/>
+  </item>
+  
+    <item id="10">
+    <ingredient id="9900" count="2500"/>
+    <production id="9908" count="1"/>
+  </item>
+
+
+
+
+<item id="11">
+    <ingredient id="57" count="100000000"/>
+    <production id="3470" count="1"/>
+  </item>
+
+<item id="12">
+    <ingredient id="3470" count="1"/>
+    <production id="57" count="100000000"/>
+  </item>
+  
+</list>

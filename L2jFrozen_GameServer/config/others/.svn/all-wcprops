@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/L2jFrozenInterlude/!svn/ver/1072/trunk/gameserver/config/others
+END
+logger.properties
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/L2jFrozenInterlude/!svn/ver/1072/trunk/gameserver/config/others/logger.properties
+END
+servername.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/L2jFrozenInterlude/!svn/ver/976/trunk/gameserver/config/others/servername.xml
+END
+log.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/L2jFrozenInterlude/!svn/ver/59/trunk/gameserver/config/others/log.cfg
+END
+banned_ip.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/L2jFrozenInterlude/!svn/ver/577/trunk/gameserver/config/others/banned_ip.cfg
+END

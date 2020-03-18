@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='utf-8'?>
+<list>
+<skill id="5300" levels="1" name="Titanium Heavy Armor Set">
+<!-- Apella Heavy Set -->
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="BUFF"/>
+  <set name="operateType" val="OP_PASSIVE"/>
+  <set name="castRange" val="-1"/>
+  <set name="effectRange" val="-1"/>
+  <for>
+    <mul order="0x30" stat="pDef" val="1.09"/> <!-- P Def. +9% -->
+    <add order="0x40" stat="maxHp" val="545"/> <!-- Maximum HP +545 -->
+    <mul order="0x40" stat="sleepVuln" val="0.3"/> <!-- Sleep Probability -70% -->
+    <mul order="0x40" stat="rootVuln" val="0.3"/> <!-- Hold Probability -70% -->
+    <sub order="0x40" stat="DEX" val="2"/> <!-- DEX -2 -->
+    <add order="0x40" stat="STR" val="2"/> <!-- STR +2 -->
+  </for>
+</skill>
+
+<skill id="5302" levels="1" name="Titanium Light Armor Set">
+<!-- Apella Light Set -->
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="BUFF"/>
+  <set name="operateType" val="OP_PASSIVE"/>
+  <set name="castRange" val="-1"/>
+  <set name="effectRange" val="-1"/>
+  <for>
+    <mul order="0x30" stat="pAtkSpd" val="1.05"/> <!-- Attack Speed +5% -->
+    <mul order="0x30" stat="pAtk" val="1.05"/> <!-- P. Atk +5% -->
+    <add order="0x40" stat="maxMp" val="389"/> <!-- Maximum MP +389 -->
+    <add order="0x40" stat="maxLoad" val="5759"/> <!-- Weight Limit +5759 -->
+    <add order="0x40" stat="DEX" val="1"/> <!-- DEX +1 -->
+    <add order="0x40" stat="STR" val="1"/> <!-- STR +1 -->
+    <sub order="0x40" stat="CON" val="2"/> <!-- CON -2 -->
+  </for>
+</skill>
+<skill id="5303" levels="1" name="Apella Robe Set">
+<!-- Apella Robe Set -->
+  <set name="target" val="TARGET_SELF"/>
+  <set name="skillType" val="BUFF"/>
+  <set name="operateType" val="OP_PASSIVE"/>
+  <set name="castRange" val="-1"/>
+  <set name="effectRange" val="-1"/>
+  <for>
+    <mul order="0x30" stat="mAtk" val="1.18"/> <!-- M. Atk +18% -->
+    <add order="0x40" stat="mAtkSpd" val="150"/> <!-- bonus mAtk.Speed -->
+    <mul order="0x40" stat="mAtkSpd" val="1.05"/> <!-- c.Spd +5% -->
+    <add order="0x40" stat="runSpd" val="9"/> <!-- Movement Speed +9 -->
+    <sub order="0x40" stat="cancel" val="50"/> <!-- Casting Cancel Probability -50% -->
+    <add order="0x40" stat="maxLoad" val="5759"/> <!-- Weight Limit +5759 -->
+    <add order="0x40" stat="WIT" val="1"/> <!-- WIT +1 -->
+    <add order="0x40" stat="INT" val="1"/> <!-- INT +1 -->
+    <sub order="0x40" stat="MEN" val="2"/> <!-- MEN -2 -->
+    <mul order="0x30" stat="stunVuln" val="0.5"/> <!-- Stun resistance +50% -->
+  </for>
+</skill>
+</list>

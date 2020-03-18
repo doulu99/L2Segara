@@ -1,0 +1,1 @@
+[20.03.12 18:49:54] '---': RequestTimeOut(268477615) 80 lvl did damage 57558 with skill Tribunal(400) to RaidBoss Flame of Splendor Barakiel(25325)83 lvl

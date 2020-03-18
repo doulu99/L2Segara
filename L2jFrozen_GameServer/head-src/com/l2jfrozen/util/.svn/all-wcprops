@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/util
+END
+L2FastList.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/util/L2FastList.java
+END
+PacketsFloodProtector.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/util/PacketsFloodProtector.java
+END
+OlympiadLogger.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/util/OlympiadLogger.java
+END
+IPv4Filter.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/util/IPv4Filter.java
+END
+L2FastMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/util/L2FastMap.java
+END
+CloseUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/util/CloseUtil.java
+END
+XmlEngine.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/util/XmlEngine.java
+END
+PrimeFinder.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/L2jFrozenInterlude/!svn/ver/1072/trunk/gameserver/head-src/com/l2jfrozen/util/PrimeFinder.java
+END
+StringUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/util/StringUtil.java
+END
+Util.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/util/Util.java
+END
+Point3D.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/util/Point3D.java
+END
+Memory.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/L2jFrozenInterlude/!svn/ver/1117/trunk/gameserver/head-src/com/l2jfrozen/util/Memory.java
+END

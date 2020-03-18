@@ -1,0 +1,2 @@
+[20.03.12 22:54:52] '---': RaidBossSpawnManager: Updated Evil Spirit Tempest respawn time to 1584065391165
+[20.03.13 18:39:02] '---': RaidBossSpawnManager: Updated Heroic Lord respawn time to 1584151837641

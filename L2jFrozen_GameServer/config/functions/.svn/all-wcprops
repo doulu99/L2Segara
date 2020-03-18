@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/L2jFrozenInterlude/!svn/ver/1072/trunk/gameserver/config/functions
+END
+classDamages.properties
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/L2jFrozenInterlude/!svn/ver/265/trunk/gameserver/config/functions/classDamages.properties
+END
+developer.properties
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/L2jFrozenInterlude/!svn/ver/1072/trunk/gameserver/config/functions/developer.properties
+END
+pvp.properties
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/L2jFrozenInterlude/!svn/ver/984/trunk/gameserver/config/functions/pvp.properties
+END
+physics.properties
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/L2jFrozenInterlude/!svn/ver/1000/trunk/gameserver/config/functions/physics.properties
+END
+access.properties
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/L2jFrozenInterlude/!svn/ver/1072/trunk/gameserver/config/functions/access.properties
+END
+l2jfrozen.properties
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/L2jFrozenInterlude/!svn/ver/1072/trunk/gameserver/config/functions/l2jfrozen.properties
+END
+crafting.properties
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/L2jFrozenInterlude/!svn/ver/135/trunk/gameserver/config/functions/crafting.properties
+END

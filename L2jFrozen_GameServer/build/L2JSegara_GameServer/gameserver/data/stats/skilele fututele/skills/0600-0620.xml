@@ -1,0 +1,169 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<list>
+	<skill id="600" levels="1" name="Party Recall">
+		<set name="mpInitialConsume" val="31"/>
+		<set name="mpConsume" val="122"/>
+		<set name="target" val="TARGET_PARTY"/>
+		<set name="skillRadius" val="1000"/>
+		<set name="reuseDelay" val="600000"/>
+		<set name="hitTime" val="3000"/>
+		<set name="skillType" val="RECALL"/>
+		<set name="isMagic" val="true"/>
+		<set name="operateType" val="OP_ACTIVE"/>
+	</skill>
+	<skill id="601" levels="1" name="Party Recall">
+		<set name="mpInitialConsume" val="31"/>
+		<set name="mpConsume" val="122"/>
+		<set name="target" val="TARGET_PARTY"/>
+		<set name="skillRadius" val="1000"/>
+		<set name="reuseDelay" val="600000"/>
+		<set name="hitTime" val="3000"/>
+		<set name="skillType" val="RECALL"/>
+		<set name="isMagic" val="true"/>
+		<set name="operateType" val="OP_ACTIVE"/>
+	</skill>
+	<skill id="602" levels="1" name="Party Recall">
+		<set name="mpInitialConsume" val="31"/>
+		<set name="mpConsume" val="122"/>
+		<set name="target" val="TARGET_PARTY"/>
+		<set name="skillRadius" val="1000"/>
+		<set name="reuseDelay" val="600000"/>
+		<set name="hitTime" val="3000"/>
+		<set name="skillType" val="RECALL"/>
+		<set name="isMagic" val="true"/>
+		<set name="operateType" val="OP_ACTIVE"/>
+	</skill>
+	<skill id="603" levels="1" name="Party Recall">
+		<set name="mpInitialConsume" val="31"/>
+		<set name="mpConsume" val="122"/>
+		<set name="target" val="TARGET_PARTY"/>
+		<set name="skillRadius" val="1000"/>
+		<set name="reuseDelay" val="600000"/>
+		<set name="hitTime" val="3000"/>
+		<set name="skillType" val="RECALL"/>
+		<set name="isMagic" val="true"/>
+		<set name="operateType" val="OP_ACTIVE"/>
+	</skill>
+	<skill id="604" levels="1" name="Party Recall">
+		<set name="mpInitialConsume" val="31"/>
+		<set name="mpConsume" val="122"/>
+		<set name="target" val="TARGET_PARTY"/>
+		<set name="skillRadius" val="1000"/>
+		<set name="reuseDelay" val="600000"/>
+		<set name="hitTime" val="3000"/>
+		<set name="skillType" val="RECALL"/>
+		<set name="isMagic" val="true"/>
+		<set name="operateType" val="OP_ACTIVE"/>
+	</skill>
+	<skill id="605" levels="1" name="Party Recall">
+		<set name="mpInitialConsume" val="31"/>
+		<set name="mpConsume" val="122"/>
+		<set name="target" val="TARGET_PARTY"/>
+		<set name="skillRadius" val="1000"/>
+		<set name="reuseDelay" val="600000"/>
+		<set name="hitTime" val="3000"/>
+		<set name="skillType" val="RECALL"/>
+		<set name="isMagic" val="true"/>
+		<set name="operateType" val="OP_ACTIVE"/>
+	</skill>
+	<skill id="606" levels="1" name="Party Recall">
+		<set name="mpInitialConsume" val="31"/>
+		<set name="mpConsume" val="122"/>
+		<set name="target" val="TARGET_PARTY"/>
+		<set name="skillRadius" val="1000"/>
+		<set name="reuseDelay" val="600000"/>
+		<set name="hitTime" val="3000"/>
+		<set name="skillType" val="RECALL"/>
+		<set name="isMagic" val="true"/>
+		<set name="operateType" val="OP_ACTIVE"/>
+	</skill>
+	<skill id="607" levels="1" name="Party Recall">
+		<set name="mpInitialConsume" val="31"/>
+		<set name="mpConsume" val="122"/>
+		<set name="target" val="TARGET_PARTY"/>
+		<set name="skillRadius" val="1000"/>
+		<set name="reuseDelay" val="600000"/>
+		<set name="hitTime" val="3000"/>
+		<set name="skillType" val="RECALL"/>
+		<set name="isMagic" val="true"/>
+		<set name="operateType" val="OP_ACTIVE"/>
+	</skill>
+	<skill id="608" levels="1" name="Party Recall">
+		<set name="mpInitialConsume" val="31"/>
+		<set name="mpConsume" val="122"/>
+		<set name="target" val="TARGET_PARTY"/>
+		<set name="skillRadius" val="1000"/>
+		<set name="reuseDelay" val="600000"/>
+		<set name="hitTime" val="3000"/>
+		<set name="skillType" val="RECALL"/>
+		<set name="isMagic" val="true"/>
+		<set name="operateType" val="OP_ACTIVE"/>
+	</skill>
+	<skill id="609" levels="1" name="Party Recall">
+		<set name="mpInitialConsume" val="31"/>
+		<set name="mpConsume" val="122"/>
+		<set name="target" val="TARGET_PARTY"/>
+		<set name="skillRadius" val="1000"/>
+		<set name="reuseDelay" val="600000"/>
+		<set name="hitTime" val="3000"/>
+		<set name="skillType" val="RECALL"/>
+		<set name="isMagic" val="true"/>
+		<set name="operateType" val="OP_ACTIVE"/>
+	</skill>
+	<skill id="610" levels="1" name="Party Recall">
+		<set name="mpInitialConsume" val="31"/>
+		<set name="mpConsume" val="122"/>
+		<set name="target" val="TARGET_PARTY"/>
+		<set name="skillRadius" val="1000"/>
+		<set name="reuseDelay" val="600000"/>
+		<set name="hitTime" val="3000"/>
+		<set name="skillType" val="RECALL"/>
+		<set name="isMagic" val="true"/>
+		<set name="operateType" val="OP_ACTIVE"/>
+	</skill>
+	<skill id="611" levels="1" name="Party Recall">
+		<set name="mpInitialConsume" val="31"/>
+		<set name="mpConsume" val="122"/>
+		<set name="target" val="TARGET_PARTY"/>
+		<set name="skillRadius" val="1000"/>
+		<set name="reuseDelay" val="600000"/>
+		<set name="hitTime" val="3000"/>
+		<set name="skillType" val="RECALL"/>
+		<set name="isMagic" val="true"/>
+		<set name="operateType" val="OP_ACTIVE"/>
+	</skill>
+	<skill id="612" levels="1" name="Party Recall">
+		<set name="mpInitialConsume" val="31"/>
+		<set name="mpConsume" val="122"/>
+		<set name="target" val="TARGET_PARTY"/>
+		<set name="skillRadius" val="1000"/>
+		<set name="reuseDelay" val="600000"/>
+		<set name="hitTime" val="3000"/>
+		<set name="skillType" val="RECALL"/>
+		<set name="isMagic" val="true"/>
+		<set name="operateType" val="OP_ACTIVE"/>
+	</skill>
+	<skill id="613" levels="1" name="Party Recall">
+		<set name="mpInitialConsume" val="31"/>
+		<set name="mpConsume" val="122"/>
+		<set name="target" val="TARGET_PARTY"/>
+		<set name="skillRadius" val="1000"/>
+		<set name="reuseDelay" val="600000"/>
+		<set name="hitTime" val="3000"/>
+		<set name="skillType" val="RECALL"/>
+		<set name="isMagic" val="true"/>
+		<set name="operateType" val="OP_ACTIVE"/>
+	</skill>
+	<skill id="614" levels="1" name="Party Recall">
+		<set name="mpInitialConsume" val="31"/>
+		<set name="mpConsume" val="122"/>
+		<set name="target" val="TARGET_PARTY"/>
+		<set name="skillRadius" val="1000"/>
+		<set name="reuseDelay" val="600000"/>
+		<set name="hitTime" val="3000"/>
+		<set name="skillType" val="RECALL"/>
+		<set name="isMagic" val="true"/>
+		<set name="operateType" val="OP_ACTIVE"/>
+	</skill>
+</list>

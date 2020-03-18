@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<list>
+<item id='8660' name="Demon Horns">
+  <for>
+    <add val='25' order='0x40' stat='runSpd'/> <!-- Run Speed +25 -->
+	<add val='100' order='0x40' stat='pDef'/> <!-- p.Def +100 -->
+	<add val='100' order='0x40' stat='mDef'/> <!-- m.Def +100 -->
+  </for>
+</item>
+<item id='8661' name="Mask of Spirits">
+  <for>
+    <add val='500' order='0x40' stat='maxHp'/> <!-- max HP +500 -->
+    <add val='500' order='0x40' stat='maxCp'/> <!-- max CP +500 -->
+  </for>
+</item>
+<item id='8662' name="Fairy Antennae - For Event">
+  <for>
+    <add val='0' order='0x10' stat='pDef'/>
+  </for>
+</item>
+</list>

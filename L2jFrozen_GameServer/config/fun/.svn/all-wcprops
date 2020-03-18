@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/L2jFrozenInterlude/!svn/ver/1000/trunk/gameserver/config/fun
+END
+away.properties
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/L2jFrozenInterlude/!svn/ver/950/trunk/gameserver/config/fun/away.properties
+END
+bank.properties
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/L2jFrozenInterlude/!svn/ver/950/trunk/gameserver/config/fun/bank.properties
+END
+rebirth.properties
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/L2jFrozenInterlude/!svn/ver/974/trunk/gameserver/config/fun/rebirth.properties
+END
+pcBang.properties
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/L2jFrozenInterlude/!svn/ver/951/trunk/gameserver/config/fun/pcBang.properties
+END
+champion.properties
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/L2jFrozenInterlude/!svn/ver/951/trunk/gameserver/config/fun/champion.properties
+END
+wedding.properties
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/L2jFrozenInterlude/!svn/ver/963/trunk/gameserver/config/fun/wedding.properties
+END
+offline.properties
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/L2jFrozenInterlude/!svn/ver/1000/trunk/gameserver/config/fun/offline.properties
+END
