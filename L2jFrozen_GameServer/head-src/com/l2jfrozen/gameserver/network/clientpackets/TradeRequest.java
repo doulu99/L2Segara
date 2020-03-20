@@ -228,13 +228,20 @@ public final class TradeRequest extends L2GameClientPacket
 			player.sendPacket(ActionFailed.STATIC_PACKET);
 			return;
 		}
-		
+
 		if (partner.getTradeRefusal())
 		{
 			player.sendMessage("Target is in trade refusal mode.");
 			player.sendPacket(ActionFailed.STATIC_PACKET);
 			return;
 		}
+		
+		if (partner.isInTradeProt())
+		{
+			player.sendMessage(partner.getName() + " is in Trade Protection Mode");
+			return;
+		}
+		
 		
 		// Alt game - Karma punishment
 		if (!Config.ALT_GAME_KARMA_PLAYER_CAN_TRADE && (player.getKarma() > 0 || partner.getKarma() > 0))

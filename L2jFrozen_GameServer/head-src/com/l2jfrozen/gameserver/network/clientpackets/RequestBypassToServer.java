@@ -33,6 +33,7 @@ import com.l2jfrozen.gameserver.handler.IAdminCommandHandler;
 import com.l2jfrozen.gameserver.handler.IVoicedCommandHandler;
 import com.l2jfrozen.gameserver.handler.VoicedCommandHandler;
 import com.l2jfrozen.gameserver.handler.custom.CustomBypassHandler;
+import com.l2jfrozen.gameserver.handler.voicedcommandhandlers.Menu;
 import com.l2jfrozen.gameserver.model.L2Object;
 import com.l2jfrozen.gameserver.model.L2World;
 import com.l2jfrozen.gameserver.model.actor.instance.L2ClassMasterInstance;
@@ -47,8 +48,10 @@ import com.l2jfrozen.gameserver.model.entity.event.L2Event;
 import com.l2jfrozen.gameserver.model.entity.event.TvT;
 import com.l2jfrozen.gameserver.model.entity.event.VIP;
 import com.l2jfrozen.gameserver.model.entity.olympiad.Olympiad;
+import com.l2jfrozen.gameserver.network.SystemMessageId;
 import com.l2jfrozen.gameserver.network.serverpackets.ActionFailed;
 import com.l2jfrozen.gameserver.network.serverpackets.NpcHtmlMessage;
+import com.l2jfrozen.gameserver.network.serverpackets.SystemMessage;
 import com.l2jfrozen.gameserver.util.GMAudit;
 
 public final class RequestBypassToServer extends L2GameClientPacket
@@ -377,6 +380,100 @@ public final class RequestBypassToServer extends L2GameClientPacket
 				}
 			}
 			
+		     else if (_command.startsWith("page1"))
+					Menu.mainHtml(activeChar);
+				else if (_command.startsWith("buffprot"))
+				{
+					if (activeChar.isBuffProtected())
+					{
+						activeChar.setIsBuffProtected(false);
+						activeChar.sendMessage("Buff protection is disabled.");
+						Menu.mainHtml(activeChar);
+					}
+					else
+					{
+						activeChar.setIsBuffProtected(true);
+						activeChar.sendMessage("Buff protection is enabled.");
+						Menu.mainHtml(activeChar);
+					}
+				}
+				else if (_command.startsWith("tradeprot"))
+				{
+					if (activeChar.isInTradeProt())
+					{
+						activeChar.setIsInTradeProt(false);
+						activeChar.sendMessage("Trade acceptance mode is enabled.");
+						Menu.mainHtml(activeChar);
+					}
+					else
+					{
+						activeChar.setIsInTradeProt(true);
+						activeChar.sendMessage("Trade refusal mode is enabled.");
+						Menu.mainHtml(activeChar);
+					}
+				}
+				else if (_command.startsWith("ssprot"))
+				{
+					if (activeChar.isSSDisabled())
+					{
+						activeChar.setIsSSDisabled(false);
+						activeChar.sendMessage("Soulshots effects are enabled.");
+						Menu.mainHtml(activeChar);
+					}
+					else
+					{
+						activeChar.setIsSSDisabled(true);
+						activeChar.sendMessage("Soulshots effects are disabled.");
+						Menu.mainHtml(activeChar);
+					}
+				}
+				else if (_command.startsWith("xpnot"))
+				{
+					if (activeChar.cantGainXP())
+					{
+						activeChar.cantGainXP(false);
+						activeChar.sendMessage("Enable Xp");
+						Menu.mainHtml2(activeChar);
+					}
+					else
+					{
+						activeChar.cantGainXP(true);
+						activeChar.sendMessage("Disable Xp");
+						Menu.mainHtml2(activeChar);
+					}
+				}
+				else if (_command.startsWith("pmref"))
+{
+					if (activeChar.getMessageRefusal())	
+					{
+	activeChar.setMessageRefusal(false);
+	activeChar.sendPacket(new SystemMessage(SystemMessageId.MESSAGE_ACCEPTANCE_MODE));
+	Menu.mainHtml(activeChar);
+}
+else
+{
+	activeChar.setMessageRefusal(true);
+	activeChar.sendPacket(new SystemMessage(SystemMessageId.MESSAGE_REFUSAL_MODE));
+	Menu.mainHtml(activeChar);
+}
+}
+				else if (_command.startsWith("partyin"))
+				{
+					if (activeChar.isPartyInvProt())
+					{
+						activeChar.setIsPartyInvProt(false);
+						activeChar.sendMessage("Party acceptance mode is enabled.");
+						Menu.mainHtml2(activeChar);
+					}
+					else
+					{
+						activeChar.setIsPartyInvProt(true);
+						activeChar.sendMessage("Party refusal mode is enabled.");
+						Menu.mainHtml2(activeChar);
+					}
+				}
+				else if (_command.startsWith("page2"))
+					Menu.mainHtml2(activeChar);
 			// Jstar's Custom Bypass Caller!
 			else if (_command.startsWith("custom_"))
 			{

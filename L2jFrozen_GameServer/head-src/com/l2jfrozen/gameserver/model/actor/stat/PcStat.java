@@ -61,6 +61,9 @@ public class PcStat extends PlayableStat
 		if (!getActiveChar().getAccessLevel().canGainExp() && getActiveChar().isInParty())
 			return false;
 		
+		if (activeChar.cantGainXP())
+			return false;
+  
 		if (!super.addExp(value))
 			return false;
 		
@@ -104,6 +107,9 @@ public class PcStat extends PlayableStat
 		// Player is Gm and acces level is below or equal to GM_DONT_TAKE_EXPSP and is in party, don't give Xp/Sp
 		L2PcInstance activeChar = getActiveChar();
 		if (!activeChar.getAccessLevel().canGainExp() && activeChar.isInParty())
+			return false;
+		
+		if (activeChar.cantGainXP())
 			return false;
 		
 		// if this player has a pet that takes from the owner's Exp, give the pet Exp now

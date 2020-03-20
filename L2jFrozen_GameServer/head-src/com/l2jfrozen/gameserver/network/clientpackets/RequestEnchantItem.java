@@ -639,7 +639,7 @@ public final class RequestEnchantItem extends L2GameClientPacket
 			{
 				if (crystalScroll)
 				{
-					sm = SystemMessage.sendString("Failed in Crystal Enchant. The enchant value of the item become " + Config.CRYSTAL_ENCHANT_MIN);
+					sm = SystemMessage.sendString("Failed in Crystal Enchant. The enchant value of the item become " + (item.getEnchantLevel() > -1));
 					activeChar.sendPacket(sm);
 				}
 				else if (blessedScroll)

@@ -19925,6 +19925,63 @@ public final class L2PcInstance extends L2PlayableInstance
 		sendSkillList();
 	}
 	
+	
+	private boolean _cantGainXP = false;
+	private boolean _isPartyInvProt = false;
+	private boolean _isInTradeProt = false;
+	private boolean _isSSDisabled = false;
+	private boolean _isInRefusal = false;
+	
+	public boolean isInTradeProt()
+	{
+		return _isInTradeProt;
+	}
+	
+	public void setIsInTradeProt(boolean value)
+	{
+		_isInTradeProt = value;
+	}
+	
+	public boolean isSSDisabled()
+	{
+		return _isSSDisabled;
+	}
+	
+	public void setIsSSDisabled(boolean value)
+	{
+		_isSSDisabled = value;
+	}
+	
+	public boolean isPartyInvProt()
+	{
+		return _isPartyInvProt;
+	}
+	
+	public void setIsPartyInvProt(boolean value)
+	{
+		_isPartyInvProt = value;
+	}
+	
+	public void cantGainXP(boolean b)
+	{
+		_cantGainXP = b;
+	}
+	
+	public boolean cantGainXP()
+	{
+		return _cantGainXP;
+	}
+	
+	public void setInRefusalMode(boolean b)
+	{
+		_isInRefusal = b;
+	}
+	
+	public boolean isInRefusalMode()
+	{
+		return _isInRefusal;
+	}
+	
 	/**
 	 * Get the current pet skill in use or return null.<br>
 	 * <br>

@@ -105,7 +105,8 @@ public class FishShots implements IItemHandler
 		// activeChar.sendPacket(new SystemMessage(SystemMessage.ENABLED_SPIRITSHOT));
 		
 		MagicSkillUser MSU = new MagicSkillUser(activeChar, SKILL_IDS[grade], 1, 0, 0);
-		Broadcast.toSelfAndKnownPlayers(activeChar, MSU);
+		if (!activeChar.isSSDisabled())
+		   Broadcast.toSelfAndKnownPlayers(activeChar, MSU);
 		MSU = null;
 		activeChar.setTarget(oldTarget);
 		

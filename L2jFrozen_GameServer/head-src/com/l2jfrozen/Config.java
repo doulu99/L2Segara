@@ -2968,6 +2968,10 @@ public final class Config
 	public static float DONATOR_ADENA_RATE;
 	public static float DONATOR_DROP_RATE;
 	public static float DONATOR_SPOIL_RATE;
+	public static boolean DONATOR_PCB_ENABLE;
+	public static int DONATOR_PCB_MIN_LEVEL;
+	public static int DONATOR_PCB_POINT_MIN;
+	public static int DONATOR_PCB_POINT_MAX;
 	public static boolean CUSTOM_SPAWNLIST_TABLE;
 	public static boolean SAVE_GMSPAWN_ON_CUSTOM;
 	public static boolean DELETE_GMSPAWN_ON_CUSTOM;
@@ -3088,6 +3092,10 @@ public final class Config
 			DONATOR_ADENA_RATE = Float.parseFloat(L2JFrozenSettings.getProperty("DonatorAdenaRate", "1.5"));
 			DONATOR_DROP_RATE = Float.parseFloat(L2JFrozenSettings.getProperty("DonatorDropRate", "1.5"));
 			DONATOR_SPOIL_RATE = Float.parseFloat(L2JFrozenSettings.getProperty("DonatorSpoilRate", "1.5"));
+			DONATOR_PCB_ENABLE = Boolean.parseBoolean(L2JFrozenSettings.getProperty("DonatorPcBangPointEnable", "true"));
+			DONATOR_PCB_MIN_LEVEL = Integer.parseInt(L2JFrozenSettings.getProperty("DonatorPcBangPointMinLevel", "20"));
+			DONATOR_PCB_POINT_MIN = Integer.parseInt(L2JFrozenSettings.getProperty("DonatorPcBangPointMinCount", "20"));
+			DONATOR_PCB_POINT_MAX = Integer.parseInt(L2JFrozenSettings.getProperty("DonatorPcBangPointMaxCount", "1000000"));
 			
 			/** Welcome Htm **/
 			WELCOME_HTM = Boolean.parseBoolean(L2JFrozenSettings.getProperty("WelcomeHtm", "False"));

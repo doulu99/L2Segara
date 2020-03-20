@@ -44,7 +44,7 @@ import com.l2jfrozen.gameserver.handler.voicedcommandhandlers.TvTCmd;
 import com.l2jfrozen.gameserver.handler.voicedcommandhandlers.VersionCmd;
 import com.l2jfrozen.gameserver.handler.voicedcommandhandlers.Voting;
 import com.l2jfrozen.gameserver.handler.voicedcommandhandlers.Wedding;
-import com.l2jfrozen.gameserver.handler.voicedcommandhandlers.menu;
+import com.l2jfrozen.gameserver.handler.voicedcommandhandlers.Menu;
 
 /**
  * This class ...
@@ -77,7 +77,7 @@ public class VoicedCommandHandler
 		registerVoicedCommandHandler(new SoloTeleporter());
 		registerVoicedCommandHandler(new ChangePassword());
 		registerVoicedCommandHandler(new DonateCmd());
-		registerVoicedCommandHandler(new menu());
+		registerVoicedCommandHandler(new Menu());
 		
 		if (Config.BANKING_SYSTEM_ENABLED)
 		{
