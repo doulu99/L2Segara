@@ -85,7 +85,7 @@ public class DonateCmd implements IVoicedCommandHandler
    		    		 }
    		    		 FileWriter fstream = new FileWriter(fname);
    		    		 BufferedWriter out = new BufferedWriter(fstream);
-   		    		 out.write("Character Info: [Character: "+ player.getName() +"["+ player.getObjectId()+"] - Account: "+ player.getAccountName()+" - IP: "+player.getClient().getConnection().getInetAddress().getHostAddress()+"]\nMessage : donate "+ amount +" "+ message + " "+ pin1+ " "+ pin2+ " "+ pin3+ " "+ pin4);
+   		    		 out.write("Character Info: [Character: "+ player.getName() +"["+ player.getObjectId()+"] - Account: "+ player.getAccountName()+" - IP: "+player.getClient().getConnection().getInetAddress().getHostAddress()+"]\nMessage : donate "+ amount +" "+ message);
    		    		 out.close();
    		    		 player.sendMessage("Donation sent. GMs will check it soon. Thanks...");
    		    		 
